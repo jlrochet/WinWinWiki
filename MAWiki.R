@@ -29,13 +29,11 @@ wikitable$Sector <- as.factor(wikitable$Sector)
 # Define sector colors
 pal <- colorFactor(c("navy", "red", "green"), domain = c("Public", "Social", "Private"))
 
-# Create leaflet widget
+# Create leaflet widget with clusters
 m <- leaflet(data = wikitable) %>%
         addTiles() %>%
-        addCircleMarkers(
-                popup = ~Organization,
-                color = ~pal(Sector)
-        )
+        addCircleMarkers(popup = ~Organization, color = ~pal(Sector), 
+                         clusterOptions = markerClusterOptions())
 
 # Output leaflet widget
 m
