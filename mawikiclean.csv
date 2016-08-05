@@ -1,0 +1,726 @@
+"","Organization","Website","Sector","Dimension","Component","Indicator","Resources","Latitude","Longitude"
+"1","Bunker Hill Community College","http://www.bhcc.edu/","Public","Opportunity","Access to Advanced Education","Years of tertiary schooling",24053931,42.37679,-71.06916
+"2","Department of Early Education and Care","http://www.mass.gov/edu/government/departments-and-boards/department-of-early-education-and-care/","Public","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",561659356,42.35252,-71.0485
+"3","Department of Elementary and Secondary Education","http://www.mass.gov/edu/government/departments-and-boards/ese/","Public","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",6044029290,42.42733,-71.06917
+"4","Department of Higher Education","http://www.mass.edu/","Public","Opportunity","Access to Advanced Education","Years of tertiary schooling",151113334,42.35959,-71.06219
+"5","Massachusetts College of Art and Design","http://www.massart.edu/#","Public","Opportunity","Access to Advanced Education","Years of tertiary schooling",17201537,42.33694,-71.09934
+"6","Office of the Secretary of Education","http://www.mass.gov/edu/","Public","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",28708829,42.35959,-71.06219
+"7","Roxbury Community College","http://www.rcc.mass.edu/","Public","Opportunity","Access to Advanced Education","Years of tertiary schooling",11586669,42.32944,-71.09565
+"8","University of Massachusetts","http://www.massachusetts.edu/","Public","Opportunity","Access to Advanced Education","Globally ranked universities",533557373,42.35845,-71.06085
+"9","Board of Library Commissioners","http://mblc.state.ma.us/index.php","Public","Foundations of Wellbeing","Access to Basic Knowledge","Adult literacy rate",28603177,42.36551,-71.05873
+"10","Center for Health Information and Analysis","http://www.chiamass.gov/","Public","Opportunity","Personal Rights","Transparency",31140523,42.35115,-71.07456
+"11","Commission on the Status of Women","http://www.mass.gov/women/","Public","Opportunity","Access to Advanced Education","Women's average years in school",100950,42.36204,-71.06355
+"12","Disabled Persons Protection Commission","http://www.mass.gov/dppc/","Public","Opportunity","Personal Freedom and Choice","Disability support",2943391,42.21732,-71.02346
+"13","District Attorneys' Association","http://www.mass.gov/mdaa/","Public","Basic Human Needs","Personal Safety","Level of violent crime",7988781,42.36162,-71.06087
+"14","Massachusetts Commission Against Discrimination","http://www.mass.gov/mcad/","Public","Opportunity","Tolerance and Inclusion","Discrimination and violence against minorities",5277568,42.35959,-71.06219
+"15","Massachusetts Cultural Council","http://www.massculturalcouncil.org/","Public","TBD","TBD","TBD",15035600,42.35038,-71.07095
+"16","Massachusetts Gaming Commission","http://massgaming.com/about/","Public","Opportunity","Personal Rights","Transparency",1150000,42.355,-71.05682
+"17","Massachusetts Sheriffs' Association","http://www.mass.gov/msa/","Public","Basic Human Needs","Personal Safety","Level of violent crime",379790,42.36122,-71.06805
+"18","Office of Campaign and Political Finance","http://www.ocpf.us/","Public","Opportunity","Personal Rights","Transparency",1536196,42.35959,-71.06219
+"19","Office of the Attorney General","http://www.mass.gov/ago/","Public","Basic Human Needs","Personal Safety","Level of violent crime",44687795,42.35959,-71.06219
+"20","Office of the Child Advocate","http://www.mass.gov/childadvocate/","Public","Basic Human Needs","Nutrition and Basic Medical Care","Child mortality rate",6e+05,42.35959,-71.06219
+"21","Office of the Comptroller","http://www.mass.gov/comptroller/","Public","Opportunity","Personal Rights","Transparency",1141560815,42.35959,-71.06219
+"22","Office of the Inspector General","http://www.mass.gov/ig/","Public","Opportunity","Personal Freedom and Choice","Corruption",4053782,42.35959,-71.06219
+"23","Office of the State Auditor","http://www.mass.gov/auditor/","Public","Opportunity","Personal Freedom and Choice","Corruption",18356279,42.35876,-71.0638
+"24","Office of the Treasurer and Receiver-General","http://www.mass.gov/treasury/","Public","Opportunity","Personal Rights","Transparency",2356025706,42.35876,-71.0638
+"25","Secretary of the Commonwealth","https://www.sec.state.ma.us/","Public","Opportunity","Personal Rights","Transparency",41702672,42.35959,-71.06219
+"26","State Ethics Commission","http://www.mass.gov/ethics/","Public","Opportunity","Personal Freedom and Choice","Corruption",2068969,42.35959,-71.06219
+"27","State Lottery Commission","http://www.masslottery.com/","Public","TBD","TBD","TBD",94316823,42.18365,-70.97679
+"28","Victim and Witness Assistance Board","http://www.mass.gov/mova/about-mova/mova-board/","Public","Basic Human Needs","Personal Safety","Level of violent crime",14061929,42.35959,-71.06219
+"29","Appeals Court","http://www.mass.gov/courts/court-info/appealscourt/","Public","Basic Human Needs","Personal Safety","Level of violent crime",12977984,42.35921,-71.06113
+"30","Board of Bar Examiners","http://www.mass.gov/courts/court-info/sjc/attorneys-bar-applicants/bbe/","Public","Opportunity","Personal Rights","Private property rights",1358923,42.36296,-71.06154
+"31","Commission on Judicial Conduct","http://www.mass.gov/cjc/","Public","Opportunity","Personal Freedom and Choice","Corruption",749080,42.35849,-71.06176
+"32","Committee for Public Counsel Services","https://www.publiccounsel.net/","Public","Opportunity","Personal Rights","Political rights",171059629,42.35686,-71.06069
+"33","Mental Health Legal Advisors Committee","http://www.mhlac.org/","Public","Foundations of Wellbeing","Health and Wellness","Access to mental health resources",1095928,42.35744,-71.05931
+"34","Supreme Judicial Court","http://www.mass.gov/courts/court-info/sjc/","Public","Opportunity","Personal Rights","Private property rights",31229106,42.35921,-71.06113
+"35","Trial Court","http://www.mass.gov/courts/court-info/trial-court/","Public","Basic Human Needs","Personal Safety","Level of violent crime",631910674,42.35921,-71.06113
+"36","House of Representatives","https://malegislature.gov/People/House","Public","Opportunity","Personal Rights","Political rights",40277604,42.35876,-71.0638
+"37","Senate","https://malegislature.gov/People/Senate","Public","Opportunity","Personal Rights","Political rights",19694608,42.35876,-71.0638
+"38","Joint Legislative Operations","https://malegislature.gov/Committees/Joint","Public","Opportunity","Personal Rights","Political rights",8709884,42.35876,-71.0638
+"39","Massachusetts Department of Correction","http://www.mass.gov/eopss/agencies/doc/","Public","Basic Human Needs","Personal Safety","Level of violent crime",602516884,42.28834,-71.15499
+"40","Department of Criminal Justice Information Services","http://www.mass.gov/eopss/agencies/dcjis/","Public","Basic Human Needs","Personal Safety","Level of violent crime",5450000,42.34749,-71.06861
+"41","Department of Fire Services","http://www.mass.gov/eopss/agencies/dfs/","Public","Basic Human Needs","Personal Safety","Emergency response",23448565,42.35845,-71.05756
+"42","Department of Public Safety","http://www.mass.gov/eopss/agencies/dps/","Public","Foundations of Wellbeing","Health and Wellness","Life expectancy",17111250,42.35959,-71.06219
+"43","Department of State Police","http://www.mass.gov/eopss/agencies/msp","Public","Basic Human Needs","Personal Safety","Level of violent crime",376180953,42.29744,-71.4142
+"44","Massachusetts Emergency Management Agency","http://www.mass.gov/eopss/agencies/mema/","Public","Basic Human Needs","Personal Safety","Emergency response",126373895,42.29715,-71.41287
+"45","Military Division","http://www.mass.gov/eopss/agencies/mng/","Public","Basic Human Needs","Personal Safety","Emergency response",61402977,42.34191,-71.06634
+"46","Municipal Police Training Committee","http://www.mass.gov/eopss/law-enforce-and-cj/law-enforce/mptc/","Public","Basic Human Needs","Personal Safety","Level of violent crime",6975382,42.30822,-71.06379
+"47","Office of the Chief Medical Examiner","http://www.mass.gov/eopss/agencies/ocme/","Public","Basic Human Needs","Personal Safety","Homicide rate",12818762,42.33454,-71.07128
+"48","Office of the Secretary of Public Safety and Security","http://www.mass.gov/eopss/agencies/office-of-secretary/","Public","Basic Human Needs","Personal Safety","Level of violent crime",76999505,42.35959,-71.06219
+"49","Parole Board","http://www.mass.gov/eopss/agencies/parole-board/","Public","Basic Human Needs","Personal Safety","Level of violent crime",16816587,42.33326,-71.04879
+"50","Sex Offender Registry Board","http://www.mass.gov/eopss/agencies/sorb/","Public","Basic Human Needs","Personal Safety","Level of violent crime",3834959,42.35959,-71.06219
+"51","Office for Administration and Finance","http://www.mass.gov/anf/","Public","TBD","TBD","TBD",421687754,42.35876,-71.0638
+"52","Department of Revenue","http://www.mass.gov/dor/child-support/","Public","Opportunity","Personal Rights","Transparency",1208185400,42.35876,-71.0638
+"53","Information Technology Division","http://www.mass.gov/anf/research-and-tech/oversight-agencies/itd/","Public","Foundations of Wellbeing","Access to Information and Communications","Internet users",137616212,42.35876,-71.0638
+"54","Operational Services Division","http://www.mass.gov/anf/budget-taxes-and-procurement/oversight-agencies/osd/","Public","TBD","TBD","TBD",22250627,42.35876,-71.0638
+"55","Appellate Tax Board","http://www.mass.gov/anf/hearings-and-appeals/oversight-agencies/atb/","Public","Opportunity","Personal Rights","Transparency",2340616,42.35876,-71.0638
+"56","Bureau of the State House","http://www.mass.gov/anf/property-mgmt-and-construction/oversight-agencies/bsb/","Public","Basic Human Needs","Personal Safety","Political terror",2522506,42.35876,-71.0638
+"57","Civil Service Commission","http://www.mass.gov/anf/hearings-and-appeals/oversight-agencies/csc/","Public","Opportunity","Personal Rights","Transparency",444422,42.35876,-71.0638
+"58","Division of Administrative Law Appeals","http://www.mass.gov/anf/hearings-and-appeals/oversight-agencies/dala/","Public","Opportunity","Personal Rights","Political rights",1238949,42.35876,-71.0638
+"59","Division of Capital Asset Management  and Maintenance","http://www.mass.gov/anf/property-mgmt-and-construction/oversight-agencies/dcam/","Public","Opportunity","Personal Rights","Transparency",38054889,42.35959,-71.06219
+"60","George Fingold Library","http://www.mass.gov/anf/research-and-tech/oversight-agencies/lib/","Public","Foundations of Wellbeing","Access to Basic Knowledge","Adult literacy rate",861925,42.35876,-71.0638
+"61","Group Insurance Commission","http://www.mass.gov/anf/employee-insurance-and-retirement-benefits/oversight-agencies/gic/","Public","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",1694629043,42.35876,-71.0638
+"62","Human Resources Division","http://www.mass.gov/anf/employment-equal-access-disability/oversight-agencies/hrd/","Public","Opportunity","Personal Rights","Transparency",100813199,42.35876,-71.0638
+"63","Massachusetts Developmental Disabilities Council","http://www.mass.gov/anf/employment-equal-access-disability/oversight-agencies/mddc/","Public","Opportunity","Personal Freedom and Choice","Disability support",1739547,42.35876,-71.0638
+"64","Massachusetts Office on Disability","http://www.mass.gov/anf/employment-equal-access-disability/oversight-agencies/mod/","Public","Opportunity","Personal Freedom and Choice","Disability support",982366,42.35876,-71.0638
+"65","Department of Children and Families","http://www.mass.gov/eohhs/gov/departments/dcf/","Public","Basic Human Needs","Nutrition and Basic Medical Care","Child mortality rate",923451315,42.35275,-71.06215
+"66","Department of Developmental Services","http://www.mass.gov/eohhs/gov/departments/dds/","Public","Opportunity","Personal Freedom and Choice","Disability support",1776723792,42.36008,-71.05888
+"67","Department of Elder Affairs","http://www.mass.gov/elders/","Public","Foundations of Wellbeing","Health and Wellness","Care for aging",3562670858,42.36008,-71.05888
+"68","Department of Mental Health","http://www.mass.gov/eohhs/gov/departments/dmh/","Public","Foundations of Wellbeing","Health and Wellness","Access to mental health resources",744382327,42.35959,-71.06219
+"69","Department of Public Health","http://www.mass.gov/eohhs/gov/departments/dmh/","Public","Foundations of Wellbeing","Health and Wellness","Life expectancy",893302027,42.35959,-71.06219
+"70","Department of Transitional Assistence",NA,"Public","Basic Human Needs","Shelter","Housing support",696150815,42.35275,-71.06215
+"71","Massachusetts Commission for the Blind","http://www.mass.gov/eohhs/gov/departments/mcb/","Public","Opportunity","Personal Freedom and Choice","Employment opportunity",33612509,42.35275,-71.06215
+"72","Massachusetts Commission for the Deaf and Hard of Hearing","http://www.mass.gov/eohhs/gov/departments/mcdhh/","Public","Opportunity","Personal Freedom and Choice","Employment opportunity",5895031,42.35275,-71.06215
+"73","Massachusetts Rehabilitation Commission","http://www.mass.gov/eohhs/gov/departments/mrc/","Public","Opportunity","Personal Freedom and Choice","Employment opportunity",158689447,42.35275,-71.06215
+"74","Office for Refugees and Immigrants","http://www.mass.gov/eohhs/gov/departments/ori/","Public","Opportunity","Tolerance and Inclusion","Tolerance for immigrants",20675138,42.35275,-71.06215
+"75","Office of the Secretary of Health and Human Services","http://www.mass.gov/eohhs/gov/departments/che/","Public","Foundations of Wellbeing","Health and Wellness","Life expectancy",11780132801,42.35959,-71.06219
+"76","Department of Youth Services","http://www.mass.gov/eohhs/gov/departments/dys/mission-statement.html","Public","Basic Human Needs","Personal Safety","Level of violent crime",177269919,42.35959,-71.06219
+"77","Soldiers' Home in Holyoke","http://www.mass.gov/eohhs/gov/departments/hly/","Public","Basic Human Needs","Shelter","Housing support",24479580,42.19944,-72.64008
+"78","Department of Transportation","http://www.massdot.state.ma.us/","Public","Opportunity","Personal Freedom and Choice","Transportation",704865801,42.35172,-71.06827
+"79","Office of the Secretary of Energy and Environmental Affairs","http://www.mass.gov/eea/","Public","TBD","TBD","TBD",39911119,42.36047,-71.06209
+"80","Department of Energy Resources","http://www.mass.gov/eea/grants-and-tech-assistance/guidance-technical-assistance/agencies-and-divisions/doer/","Public","TBD","TBD","TBD",5021205,42.36047,-71.06209
+"81","Department of Conservation and Recreation","http://www.mass.gov/eea/agencies/dcr/","Public","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",104609226,42.36638,-71.05896
+"82","Department of Agricultural Resources","http://www.mass.gov/eea/agencies/agr/","Public","Basic Human Needs","Nutrition and Basic Medical Care","Depth of food deficit",32448025,42.36638,-71.05896
+"83","Department of Environmental Protection","http://www.mass.gov/eea/agencies/massdep/about/","Public","TBD","TBD","TBD",81903384,42.35571,-71.06105
+"84","Department of Fish and Game","http://www.mass.gov/eea/agencies/dfg/","Public","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",43829705,42.36638,-71.05896
+"85","Department of Public Utilities","http://www.mass.gov/eea/grants-and-tech-assistance/guidance-technical-assistance/agencies-and-divisions/dpu/","Public","TBD","TBD","TBD",14324704,42.3326,-71.09468
+"86","Office of the Secretary of Housing and Economic Development",NA,"Public","TBD","TBD","TBD",27782668,42.35959,-71.06219
+"87","Department of Housing and Community Development","http://www.mass.gov/hed/economic/eohed/dhcd/","Public","TBD","TBD","TBD",932638400,42.36047,-71.06209
+"88","Department of Business Development",NA,"Public","Opportunity","Personal Freedom and Choice","Employment opportunity",10924162,42.36047,-71.06209
+"89","Consumer Affairs and Business Regulation","http://www.mass.gov/ocabr/","Public","Opportunity","Personal Freedom and Choice","Employment opportunity",1337584,42.35153,-71.06685
+"90","Department of Telecommunications and Cable","http://www.mass.gov/ocabr/government/oca-agencies/dtc-lp/","Public","Foundations of Wellbeing","Access to Information and Communications","Mobile telephone subscriptions",3051062,42.34585,-71.0643
+"91","Division of Banks","http://www.mass.gov/ocabr/government/oca-agencies/dob-lp/","Public","Opportunity","Personal Freedom and Choice","Employment opportunity",18843118,42.34585,-71.0643
+"92","Division of Insurance","http://www.mass.gov/ocabr/government/oca-agencies/doi-lp/","Public","Opportunity","Personal Rights","Political rights",14712080,42.34585,-71.0643
+"93","Division of Professional Licensure","http://www.mass.gov/ocabr/government/oca-agencies/dpl-lp/","Public","Opportunity","Personal Rights","Transparency",4853413,42.34585,-71.0643
+"94","Division of Standards","http://www.mass.gov/ocabr/government/oca-agencies/dos-lp/","Public","Opportunity","Personal Rights","Transparency",1891316,42.35959,-71.06219
+"95","Massachusetts Marketing Partnership","http://www.massvacation.com/business-resources/related-agencies/","Public","Opportunity","Personal Freedom and Choice","Employment opportunity",20713375,42.35153,-71.06685
+"96","Executive Office of Labor and Workforce Development","http://www.mass.gov/lwd/","Public","Opportunity","Personal Rights","Political rights",2582312,42.35959,-71.06219
+"97","Department of Unemployment Assistance","http://www.mass.gov/lwd/unemployment-insur/","Public","Opportunity","Personal Rights","Political rights",89006277,42.36204,-71.06355
+"98","Department of Labor Standards","http://www.mass.gov/lwd/labor-standards/","Public","Opportunity","Personal Rights","Political rights",2813104,42.36204,-71.06355
+"99","Office of the Secretary of Labor and Workforce Development","http://www.mass.gov/lwd/","Public","Opportunity","Personal Rights","Political rights",38534242,42.35959,-71.06219
+"100","Department of Career Services","http://www.mass.gov/lwd/employment-services/","Public","Opportunity","Personal Freedom and Choice","Employment opportunity",98883699,42.36204,-71.06355
+"101","Department of Industrial Accidents","http://www.mass.gov/lwd/workers-compensation/","Public","Opportunity","Personal Rights","Political rights",19144105,42.36264,-71.05921
+"102","Department of Labor Relations","http://www.mass.gov/lwd/labor-relations/","Public","Opportunity","Personal Rights","Political rights",2249659,42.36204,-71.06355
+"103","Arts and Culture","http://www.cityofboston.gov/arts/","Public","TBD","TBD","TBD",979000,42.3602,-71.05795
+"104","Assessing Department","http://www.cityofboston.gov/assessing/","Public","Opportunity","Personal Rights","Transparency",6682000,42.3602,-71.05795
+"105","Boston Centers for Youth & Families","http://www.cityofboston.gov/bcyf/","Public","Foundations of Wellbeing","Access to Basic Knowledge","Upper secondary school enrollment",24180000,42.3602,-71.05795
+"106","Department of Innovation and Technology","http://www.cityofboston.gov/doit/","Public","Foundations of Wellbeing","Access to Information and Communications","Internet users",30616000,42.3602,-71.05795
+"107","Law Department","http://www.cityofboston.gov/law/","Public","Opportunity","Tolerance and Inclusion","Community safety net",6217000,42.3602,-71.05795
+"108","Boston Police Department","http://bpdnews.com/","Public","Basic Human Needs","Personal Safety","Emergency response",319700000,42.3602,-71.05795
+"109","Fire Department","http://www.cityofboston.gov/fire/","Public","Basic Human Needs","Shelter","Availability of affordable housing",204615000,42.3602,-71.05795
+"110","Property & Construction Management Department","http://www.cityofboston.gov/propertymanagement/","Public","Basic Human Needs","Water and Sanitation","Access to improved sanitation facilities",25330000,42.3602,-71.05795
+"111","Public Works Department","http://www.cityofboston.gov/publicworks/","Public","Opportunity","Personal Freedom and Choice","Transportation",83559000,42.3602,-71.05795
+"112","Transportation Department","http://www.cityofboston.gov/transportation/","Public","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",23521000,42.3602,-71.05795
+"113","The Parks & Recreation Department","http://www.cityofboston.gov/parks/","Public","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",16218000,42.3602,-71.05795
+"114","Boston Publich Health Commission","http://www.bphc.org/Pages/default.aspx","Public","Foundations of Wellbeing","Health and Wellness","Life expectancy",73827000,42.3602,-71.05795
+"115","Boston Public Library","http://www.bpl.org/","Public","Opportunity","Access to Advanced Education","Inequality in the attainment of education",33416000,42.3602,-71.05795
+"116","Office of the Parking Clerk","http://www.cityofboston.gov/parking/","Public","Opportunity","Personal Rights","Freedom of movement",7818000,42.3602,-71.05795
+"117","Inspectional Services Department","http://www.cityofboston.gov/isd/","Public","Basic Human Needs","Water and Sanitation","Access to improved sanitation facilities",16704000,42.3602,-71.05795
+"118","Boston Public Schools","http://www.bostonpublicschools.org/","Public","Opportunity","Access to Advanced Education","Inequality in the attainment of education",974929000,42.3602,-71.05795
+"119","The Department of Youth Engagement & Employment (Youth Fund)","https://youth.boston.gov","Public",NA,NA,NA,4991000,42.3602,-71.05795
+"120","Department of Neighborhood Development","http://dnd.cityofboston.gov/","Public","Basic Human Needs","Shelter","Housing support",4971000,42.3602,-71.05795
+"121","Veterans' Services","http://www.cityofboston.gov/veterans/","Public","TBD","TBD","TBD",4489000,42.3602,-71.05795
+"122","Commission on Affairs of the Elderly","http://www.cityofboston.gov/elderly/","Public","Foundations of Wellbeing","Health and Wellness","Care for aging",3109000,42.3602,-71.05795
+"123","Purchasing Department","http://www.cityofboston.gov/purchasing/","Public","Opportunity","Personal Rights","Transparency",1774000,42.3602,-71.05795
+"124","City of Boston Licensing Board","http://www.cityofboston.gov/licensing/","Public","Basic Human Needs","Personal Safety","Perceived criminality",711000,42.3602,-71.05795
+"125","Treasury Department","http://www.cityofboston.gov/treasury/","Public","Opportunity","Personal Rights","Transparency",4842000,42.3602,-71.05795
+"126","Election Department","http://www.cityofboston.gov/elections/","Public","Opportunity","Personal Rights","Political rights",3089000,42.3602,-71.05795
+"127","City Council","http://www.cityofboston.gov/citycouncil/","Public","Opportunity","Personal Rights","Transparency",5214000,42.3602,-71.05795
+"128","City Clerk","http://www.cityofboston.gov/cityclerk/","Public","Opportunity","Personal Rights","Transparency",1082000,42.3602,-71.05795
+"129","Office of Women's Advancement","http://www.cityofboston.gov/women/","Public","Opportunity","Tolerance and Inclusion","Discrimination and violence against minorities",207000,42.3602,-71.05795
+"130","Consumer Affairs & Licensing","http://www.cityofboston.gov/consumeraffairs/","Public","Opportunity","Personal Rights","Transparency",461000,42.3602,-71.05795
+"131","Mayor's Commission for Persons with Disabilities","http://www.cityofboston.gov/disability/","Public","Opportunity","Personal Freedom and Choice","Disability support",399000,42.3602,-71.05795
+"132","Office of Emergency Management","Office of Emergency Management","Public","Basic Human Needs","Personal Safety","Emergency response",466000,42.3602,-71.05795
+"133","Snow Center","http://www.cityofboston.gov/snow/default.asp","Public","Opportunity","Personal Rights","Freedom of movement",18511000,42.3602,-71.05795
+"134","Environment Department","http://www.cityofboston.gov/environment/","Public","Basic Human Needs","Water and Sanitation","Access to improved sanitation facilities",2083000,42.3602,-71.05795
+"135","Office of Labor Relations","http://www.cityofboston.gov/labor/","Public","Opportunity","Tolerance and Inclusion","Discrimination and violence against minorities",1423000,42.3602,-71.05795
+"136","Office of Neighborhood Services","http://www.cityofboston.gov/ons/","Public","Foundations of Wellbeing","Health and Wellness","Access to mental health resources",1463000,42.3602,-71.05795
+"137","Mayor's Office of New Bostonians","http://www.cityofboston.gov/newbostonians/","Public","Opportunity","Tolerance and Inclusion","Tolerance for immigrants",366000,42.3602,-71.05795
+"138","Registry Division","http://www.cityofboston.gov/registry/","Public","Opportunity","Personal Rights","Transparency",1035000,42.3602,-71.05795
+"139","Auditing Department","http://www.cityofboston.gov/auditing/","Public","Opportunity","Personal Rights","Transparency",2607000,42.3602,-71.05795
+"140","HRCA Brookline Housing 1550 Beacon Plaza","http://www.hebrewseniorlife.org/ccb-goldman-residences","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",3596323,42.29679,-71.13098
+"141","Center Communities Of Brookline Inc","http://www.hebrewseniorlife.org/center-communities-brookline","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",5275879,42.29679,-71.13098
+"142","HRCA Brookline Housing 112-120 Centre Court","http://www.hebrewseniorlife.org/ccb-cohen-residences","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",3221552,42.29679,-71.13098
+"143","Boston Catholic Cemetery Association","http://www.bostoncemetery.com/","Social","TBD","TBD","TBD",2478439,42.27833,-71.11512
+"144","Emerson College","http://www.emerson.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",216203638,42.35222,-71.06581
+"145","New England College of Optometry","http://www.neco.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",23100877,42.35185,-71.08686
+"146","Northeastern University","http://www.northeastern.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",1368032665,42.33935,-71.08817
+"147","Wentworth Institute of Technology","http://www.wit.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",172742047,42.33665,-71.09571
+"148","Fisher College","http://www.fisher.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",25313225,42.35531,-71.07417
+"149","Boston Medical Library","https://www.countway.harvard.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",1486156,42.33513,-71.10367
+"150","Big Brothers Big Sisters of Massachusetts Bay Inc","http://www.bbbsmb.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",5588713,42.355,-71.05675
+"151","Trustees of Boston University","http://www.bu.edu/","Social","Opportunity","Access to Advanced Education","Globally ranked universities",2080233630,42.35144,-71.11525
+"152","Young Womens Christian Association of Boston Inc","http://www.ywboston.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",1822008,42.34862,-71.07456
+"153","Boston Symphony Orchestra Inc","https://www.bso.org/","Social","TBD","TBD","TBD",100653882,42.34292,-71.08568
+"154","Young Mens Christian Association Greater Boston","http://ymcaboston.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",71112510,42.34063,-71.08766
+"155","Combined Jewish Philanthropies of Greater Boston Inc","http://www.cjp.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",431962655,42.35554,-71.05388
+"156","Benjamin Franklin Institute of Technology","http://www.bfit.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",12354235,42.3461,-71.07024
+"157","Massachusetts Society For The Prevention Of Cruelty To Animals","https://www.mspca.org/","Social","TBD","TBD","TBD",57650787,42.32289,-71.11121
+"158","Museum Of Fine Arts","http://www.mfa.org/","Social","TBD","TBD","TBD",151023166,42.33946,-71.09414
+"159","New England Baptist Hospital","http://www.nebh.org/","Social","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",237413890,42.32932,-71.10719
+"160","Simmons College","http://www.simmons.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",172865232,42.33908,-71.10007
+"161","Wheelock College","http://www.wheelock.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",58081834,42.34199,-71.10602
+"162","American Meteorological Society","https://www.ametsoc.org/ams/","Social","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",17597352,42.35692,-71.06708
+"163","American Congregational Association","http://www.congregationallibrary.org/","Social","TBD","TBD","TBD",1817758,42.35772,-71.06238
+"164","Animal Rescue League Of Boston","http://www.arlboston.org/","Social","TBD","TBD","TBD",6801744,42.34705,-71.06977
+"165","North Bennet Street School","http://www.nbss.edu/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",11109778,42.36289,-71.05454
+"166","Judge Baker Childrens Center","http://jbcc.harvard.edu/","Social","Foundations of Wellbeing","Health and Wellness","Access to mental health resources",13475909,42.33089,-71.11009
+"167","Beth Israel Deaconess Medical Center Inc","http://www.bidmc.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",1462255481,42.33965,-71.10525
+"168","Greater Boston Legal Services Inc","https://www.gbls.org/","Social","Opportunity","Personal Rights","Political rights",14370795,42.36419,-71.06045
+"169","Museum Of Science","http://www.mos.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Lower secondary school enrollment",70431180,42.3678,-71.07081
+"170","Boys And Girls Clubs Of Boston Inc","http://www.bgcb.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",26449067,42.35799,-71.05597
+"171","The Childrens Museum","http://www.bostonchildrensmuseum.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",9942895,42.35187,-71.04958
+"172","Boston Foundation Inc","http://www.tbf.org/","Social","TBD","TBD","TBD",128412322,42.35051,-71.07044
+"173","Crittenton Womens Union Inc","https://www.empathways.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",10488089,42.3593,-71.05799
+"174","Ellis Memorial And Eldredge House Inc","http://www.ellismemorial.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",3482417,42.34675,-71.07107
+"175","Rogerson Communities","http://www.rogerson.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",8136728,42.2844,-71.12789
+"176","Sherrill House Inc","http://www.sherrillhouse.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",22065342,42.32797,-71.11139
+"177","International Institute Of New England Inc","http://iine.org/","Social","Opportunity","Tolerance and Inclusion","Tolerance for immigrants",15524847,42.3567,-71.05856
+"178","Institute Of Contemporary Art","https://www.icaboston.org/","Social","TBD","TBD","TBD",14449285,42.35289,-71.04304
+"179","Isabella Stewart Gardner Museum Inc","http://www.gardnermuseum.org/home","Social","TBD","TBD","TBD",23142445,42.33823,-71.09896
+"180","Jewish Vocational Service Inc","http://www.jvs-boston.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",12131766,42.36008,-71.05888
+"181","The Kingsley Montessori School Inc","http://www.kingsley.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",11130696,42.35031,-71.08232
+"182","Wgbh Educational Foundation","http://www.wgbh.org/","Social","Foundations of Wellbeing","Access to Information and Communications","Press Freedom Index",195429649,42.35669,-71.1485
+"183","MCPHS University","https://www.mcphs.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",292212233,42.33679,-71.10121
+"184","Boston Rescue Mission Inc","http://www.brm.org/","Social","Basic Human Needs","Shelter","Housing support",4979127,42.36008,-71.05888
+"185","National Braille Press Inc","http://www.nbp.org/","Social","Opportunity","Personal Freedom and Choice","Disability support",4475599,42.34131,-71.0882
+"186","New England Anti-Vivisection Society","http://www.neavs.org/","Social","TBD","TBD","TBD",1132955,42.35696,-71.05902
+"187","New England Historic Genealogical Society Inc","http://www.americanancestors.org/index.aspx","Social","TBD","TBD","TBD",10227820,42.35166,-71.07526
+"188","The Home For Little Wanderers Inc","http://www.thehome.org/site/PageServer","Social","Opportunity","Tolerance and Inclusion","Community safety net",48027449,42.3577,-71.14754
+"189","Newman Preparatory School","http://www.newmanboston.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Upper secondary school enrollment",6808973,42.35223,-71.08198
+"190","Old South Association In Boston","http://www.osmh.org/","Social","TBD","TBD","TBD",960236,42.35709,-71.05867
+"191","Paul Revere Memorial Assoc Corp","https://www.paulreverehouse.org/","Social","TBD","TBD","TBD",1374113,42.36373,-71.0537
+"192","Proprietors Of The Social Law Library","http://www.socialaw.com/","Social","TBD","TBD","TBD",5180141,42.35921,-71.06113
+"193","Proprietors Of The Boston Athenaeum","http://www.bostonathenaeum.org/","Social","TBD","TBD","TBD",5997286,42.35806,-71.0618
+"194","Emmanuel College","https://www.emmanuel.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",95182461,42.34037,-71.10164
+"195","Visiting Nurse Association Of Boston Inc","https://www.bostonvna.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",33480213,42.38113,-71.07247
+"196","Winsor School Inc","https://www.winsor.edu/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Upper secondary school enrollment",40040968,42.34086,-71.10765
+"197","Nurtury Inc","http://www.nurturyboston.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",17423344,42.34728,-71.0705
+"198","Morgan Memorial Goodwill Industries Inc","http://www.goodwillmass.org/","Social","Opportunity","Personal Freedom and Choice","Freedom over life choices",27450386,42.33087,-71.07995
+"199","Massachusetts Historical Society","https://www.masshist.org/","Social","TBD","TBD","TBD",3182300,42.34649,-71.08992
+"200","Boston Center For Adult Education","http://www.bcae.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Adult literacy rate",1935471,42.3492,-71.06936
+"201","The Boston Conservatory","https://www.bostonconservatory.edu/","Social","TBD","TBD","TBD",40605767,42.34615,-71.08995
+"202","Handel And Haydn Society","https://handelandhaydn.org/","Social","TBD","TBD","TBD",7298077,42.34584,-71.07839
+"203","Schepens Eye Research Institute Inc","http://www.schepens.harvard.edu/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",22995526,42.36205,-71.06426
+"204","Suffolk University","http://www.suffolk.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",315643732,42.35886,-71.06184
+"205","New England Law Boston","http://www.nesl.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",38070154,42.35077,-71.06645
+"206","Joslin Diabetes Center Inc","http://www.joslin.org/","Social","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",100951725,42.33864,-71.1083
+"207","Commonwealth School Inc","http://www.commschool.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Upper secondary school enrollment",10164915,42.35234,-71.07819
+"208","Health Resources In Action Inc","http://www.hria.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",10235589,42.34728,-71.0705
+"209","Massachusetts Higher Education Assistance Corporation","http://www.asa.org/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",176374512,42.36047,-71.06209
+"210","Beacon Hill Nursery School","http://www.bhns.net/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",3299226,42.36075,-71.06537
+"211","Third Sector New England Inc","http://tsne.org/","Social","TBD","TBD","TBD",36602911,42.35185,-71.05743
+"212","Dana-Farber Cancer Institute","http://www.dana-farber.org/","Social","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",1119142679,42.33749,-71.10814
+"213","Boston Architectural College","http://the-bac.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",17866157,42.34846,-71.08574
+"214","New England Aquarium Corporation","http://www.neaq.org/","Social","TBD","TBD","TBD",41538810,42.35914,-71.04967
+"215","Berklee College Of Music Inc","https://www.berklee.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",259550477,42.34661,-71.08943
+"216","Action For Boston Community Development","https://www.bostonabcd.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",157216004,42.35289,-71.0641
+"217","Advent School Corporation","http://adventschool.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Lower secondary school enrollment",5738511,42.35821,-71.07177
+"218","The American College Of Greece","http://www.acg.edu/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",38588679,42.35783,-71.0556
+"219","Boston Ballet Inc","http://www.bostonballet.org/","Social","TBD","TBD","TBD",33215890,42.34473,-71.07191
+"220","Community Builders Inc","http://www.tcbinc.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",64437816,42.34728,-71.0705
+"221","Hundred Club Of Massachusetts Inc","http://100clubmass.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",543991,42.35079,-71.08485
+"222","United Way Of Massachusetts Bay Inc","http://unitedwaymassbay.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",50104343,42.35252,-71.0485
+"223","Architectural Heritage Foundation Inc",NA,"Social","TBD","TBD","TBD",648920,42.35806,-71.05922
+"224","Museum Of Afro American History Inc","http://www.maah.org/","Social","TBD","TBD","TBD",2701660,42.35772,-71.06238
+"225","Haley House Inc","http://haleyhouse.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",3153283,42.34372,-71.07392
+"226","Hope House Inc","http://hopehouseboston.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",2696606,42.3306,-71.07446
+"227","Massachusetts Continuing Legal Education Inc","http://www.mcle.org/","Social","TBD","TBD","TBD",5571072,42.3554,-71.06179
+"228","South End Community Health Center Inc","http://www.sechc.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",14928665,42.33838,-71.07489
+"229","Robert F Kennedy Childrens Action Corps","http://www.rfkchildren.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",18606831,42.35849,-71.06176
+"230","Boston Lyric Opera Company","https://blo.org/","Social","TBD","TBD","TBD",11842838,42.35291,-71.06056
+"231","Bridge Over Troubled Waters Inc","http://www.bridgeotw.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",4454988,42.30421,-70.88364
+"232","Community Development Corporation Of Boston Inc",NA,"Social","Basic Human Needs","Shelter","Availability of affordable housing",1231661,42.3565,-71.05337
+"233","Asian American Civic Association Inc","http://aaca-boston.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",3112689,42.34882,-71.06174
+"234","National Consumer Law Center Inc","http://www.nclc.org/","Social","Opportunity","Personal Rights","Private property rights",11487586,42.35429,-71.05827
+"235","South Cove Community Health Center Inc","http://www.scchc.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",33436567,42.35098,-71.05756
+"236","Massachusetts League Of Community Health Centers Inc","http://www.massleague.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",12476272,42.35893,-71.05928
+"237","Medical Academic And Scientific Community Organization Inc","http://www.masco.org/","Social","TBD","TBD","TBD",25188077,42.33987,-71.10837
+"238","Fenway Community Health Center Inc","http://fenwayhealth.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",73416226,42.34404,-71.0989
+"239","Pine Street Inn Inc","http://www.pinestreetinn.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",51954584,42.34312,-71.06444
+"240","Bay Cove Human Services Inc","https://www.baycove.org","Social","Opportunity","Personal Freedom and Choice","Disability support",88458797,42.36367,-71.05969
+"241","Learning Project Inc","http://www.learningproject.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",3073812,42.35354,-71.07708
+"242","Catholic Charitable Bureau Of The Archdiocese Of Boston Inc","http://www.ccab.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",38805054,42.35252,-71.0485
+"243","Boston Senior Home Care Inc","http://bostonseniorhomecare.info/","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",36148760,42.35185,-71.05743
+"244","Central Boston Elder Services Inc","http://www.centralboston.org/","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",48265237,42.33019,-71.08465
+"245","Roxbury Tenants Of Harvard Association Inc","http://www.missionpark.com/home.htm","Social","Opportunity","Tolerance and Inclusion","Community safety net",10725974,42.33446,-71.10917
+"246","Victory Programs Inc","http://www.vpi.org/","Social","Basic Human Needs","Shelter","Housing support",11852362,42.32911,-71.06906
+"247","Rosies Place Inc","http://www.rosiesplace.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",9331878,42.33406,-71.07693
+"248","Public Responsibility In Medicine And Research","http://www.primr.org/","Social","TBD","TBD","TBD",4219601,42.35134,-71.06897
+"249","Haymarket Peoples Fund Inc","http://www.haymarket.org/","Social","Opportunity","Tolerance and Inclusion","Discrimination and violence against minorities",1699705,42.31193,-71.11184
+"250","New England Foundation For The Arts Inc","http://www.nefa.org/","Social","TBD","TBD","TBD",7160903,42.35527,-71.06285
+"251","Elderhostel Inc","https://www.roadscholar.org/","Social","TBD","TBD","TBD",257010706,42.35291,-71.06056
+"252","Fenway Community Development Corp","http://www.fenwaycdc.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",897595,42.34431,-71.08896
+"253","JSI Research & Training Institute Inc","http://www.jsi.com/JSIInternet/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",232896103,42.35234,-71.04808
+"254","Boston Local Development Corp","http://www.bostonredevelopmentauthority.org/work-with-the-bra/financing/bldc","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",1148669,42.36216,-71.06092
+"255","Planned Parenthood League Of Massachusetts Inc","https://www.plannedparenthood.org/planned-parenthood-massachusetts","Social","Opportunity","Personal Freedom and Choice","Satisfied demand for contraception",20336603,42.35262,-71.12288
+"256","C H M C ANESTHESIA FOUNDATION INC","http://www.childrenshospital.org/","Social","Basic Human Needs","Nutrition and Basic Medical Care","Deaths from infectious diseases",102734911,42.34658,-71.10107
+"257","GIRL SCOUTS OF EASTERN MASSACHUSETTS INC","http://www.gsema.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",16708393,42.34728,-71.0705
+"258","THE GREATER BOSTON FOOD BANK INC","http://www.gbfb.org/","Social","Basic Human Needs","Nutrition and Basic Medical Care","Undernourishment",85085340,42.33428,-71.06572
+"259","WOMENS INSTITUTE FOR HOUSING AND ECONOMIC DEVELOPMENT INC","http://www.wihed.org/","Social","Basic Human Needs","Shelter","Housing support",1373232,42.35825,-71.05866
+"260","CHINESE CONSOLIDATED BENEVOLENT ASSOCIATION OF NEW ENGLAND","http://www.ccbaboston.org/en/","Social","Opportunity","Tolerance and Inclusion","Tolerance for immigrants",2245130,42.34885,-71.06127
+"261","MASSACHUSETTS COLLEGE OF ART AND DESIGN FOUNDATION INC","https://www.massart.edu/Support_MassArt/MassArt_Foundation.html","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",3180486,42.33694,-71.09934
+"262","E B C D C INC","http://www.ebcdc.org/","Social","Basic Human Needs","Shelter","Housing support",4375720,42.3666,-71.0385
+"263","CHILDRENS HOSPITAL CORPORATION","http://www.childrenshospital.org/","Social","Basic Human Needs","Nutrition and Basic Medical Care","Deaths from infectious diseases",1514532808,42.33741,-71.10555
+"264","METROPOLITAN BOSTON HOUSING PARTNERSHIP INC","http://mbhp.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",129774799,42.35132,-71.05861
+"265","FOUNDATION OF THE MASSACHUSETTS EYE AND EAR INFIRMARY INC","http://www.masseyeandear.org/","Social","TBD","TBD","TBD",25832766,42.36276,-71.07013
+"266","MASSACHUSETTS LEGAL ASSISTANCE","http://mlac.org/","Social","Opportunity","Personal Rights","Political rights",22198752,42.35429,-71.05827
+"267","ASIAN COMMUNITY DEVELOPMENT CORP","http://www.asiancdc.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",801489,42.25528,-71.12174
+"268","HABITAT FOR HUMANITY INTERNATIONAL INC","http://www.habitat.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",2839982,42.36386,-71.05145
+"269","VIETNAM VETERANS WORKSHOP INC","https://www2.uniteus.com/groups/vietnam-veterans-workshop-inc","Social","Basic Human Needs","Shelter","Housing support",11017719,42.35927,-71.05835
+"270","CASTLE SQUARE TENANTS ORGANIZATION INC","http://www.cstoboston.org/","Social","Basic Human Needs","Shelter","Housing support",569667,42.34613,-71.0689
+"271","STEPPINGSTONE FOUNDATION INC","http://www.tsf.org/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",5872834,42.34672,-71.06942
+"272","MASSACHUSETTS HOUSING INVESTMENT CORP","http://www.mhic.com/","Social","Basic Human Needs","Shelter","Housing support",12442452,42.35573,-71.0562
+"273","COMMONWEALTH ZOOLOGICAL CORPORATION","http://www.zoonewengland.org/","Social","TBD","TBD","TBD",16502923,42.30279,-71.08681
+"274","ARTISTS FOR HUMANITY INC","http://afhboston.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",7027874,42.34297,-71.05361
+"275","BOSTON HEALTH CARE FOR THE HOMELESS PROGRAM INC","https://www.bhchp.org/","Social","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",49476332,42.33373,-71.07264
+"276","THE HOUSING PARTNERSHIP NETWORK INC","http://www.housingpartnership.net/","Social","Basic Human Needs","Shelter","Housing support",13615021,42.3593,-71.05799
+"277","CAMFIELD TENANTS ASSOCIATION INC","http://www.camfieldestates.com/home","Social","Basic Human Needs","Shelter","Housing support",84510,42.33721,-71.08156
+"278","BOSTON COMMUNITY CAPITAL INC","http://www.bostoncommunitycapital.org/programs-services/venture-fund","Social","TBD","TBD","TBD",3534153,42.32929,-71.08638
+"279","BOSTON COMMUNITY CAPITAL INC","http://www.bostoncommunitycapital.org/programs-services/venture-fund","Social","TBD","TBD","TBD",3534153,42.32929,-71.08638
+"280","BOSTON COMMUNITY CAPITAL INC","http://www.bostoncommunitycapital.org/programs-services/venture-fund","Social","Basic Human Needs","Shelter","Housing support",3534153,42.32929,-71.08638
+"281","BOSTON COMMUNITY CAPITAL INC","http://www.bostoncommunitycapital.org/programs-services/venture-fund","Social","Basic Human Needs","Shelter","Housing support",3534153,42.32929,-71.08638
+"282","BOSTON COMMUNITY CAPITAL INC","http://www.bostoncommunitycapital.org/programs-services/venture-fund","Social","TBD","TBD","TBD",3534153,42.32929,-71.08638
+"283","CITIZEN SCHOOLS INC","http://www.citizenschools.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Lower secondary school enrollment",26288331,42.35187,-71.04958
+"284","JUMPSTART FOR YOUNG CHILDREN INC","https://www.jstart.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",17937508,42.35187,-71.04958
+"285","ROGERSON HOUSE INC","http://www.rogersonhouse.org/","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",5674077,42.2844,-71.12789
+"286","NEW HOPE COMMUNITY CAPITAL INC","http://www.newhopehousinginc.org/index.html","Social","Basic Human Needs","Shelter","Availability of affordable housing",2477849,42.34728,-71.0705
+"287","BOSTON MEDICAL CENTER CORPORATION","http://www.bmc.org/","Social","Basic Human Needs","Nutrition and Basic Medical Care","Deaths from infectious diseases",1120846589,42.36008,-71.05888
+"288","BOTTOM LINE INC","https://www.bottomline.org/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",8753415,42.357,-71.05762
+"289","COMMUNITY CATALYST INC","http://www.communitycatalyst.org/","Social","TBD","TBD","TBD",15353461,42.35611,-71.05683
+"290","NEW PROFIT INC","http://www.newprofit.org/","Social","TBD","TBD","TBD",24413299,42.34922,-71.07512
+"291","BOSTON ARTS ACADEMY FOUNDATION INC","http://bostonartsacademy.org/support-baa/baa-foundation/","Social","TBD","TBD","TBD",2236089,42.34618,-71.09497
+"292","COMMUNITY RESOURCES FOR JUSTICE INC","http://www.crj.org/","Social","Foundations of Wellbeing","Health and Wellness","Access to mental health resources",41570054,42.352,-71.07153
+"293","THE MATCH FOUNDATION INC","http://www.matcheducation.org/","Social","TBD","TBD","TBD",15957559,42.35221,-71.12095
+"294","REACH OUT AND READ INC","http://www.reachoutandread.org/","Social","Foundations of Wellbeing","Access to Basic Knowledge","Primary school enrollment",12060303,42.35185,-71.05743
+"295","HARVARD CLINICAL RESEARCH INSTITUTE INC","http://www.hcri.harvard.edu/","Social","Opportunity","Access to Advanced Education","Globally ranked universities",38517693,42.35086,-71.11783
+"296","YEAR UP INC","http://www.yearup.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",113865399,42.35656,-71.05758
+"297","BOSTON PUBLIC MARKET","https://bostonpublicmarket.org/","Social","Opportunity","Personal Freedom and Choice","Freedom over life choices",6495939,42.36008,-71.05888
+"298","PARTNERS IN HEALTH A NONPROFIT CORPORATION","http://www.pih.org/","Social","Basic Human Needs","Nutrition and Basic Medical Care","Deaths from infectious diseases",186945813,42.35043,-71.11526
+"299","COMMONWEALTH CARE ALLIANCE INC","http://www.commonwealthcarealliance.org/","Social","Basic Human Needs","Nutrition and Basic Medical Care","Deaths from infectious diseases",585334659,42.35573,-71.0616
+"300","APPALACHIAN MOUNTAIN CLUB","https://www.outdoors.org/","Social","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",30302542,42.35796,-71.0654
+"301","WEDIKO CHILDRENS SERVICES INC","http://www.wediko.org/","Social","Foundations of Wellbeing","Health and Wellness","Access to mental health resources",12530725,42.33916,-71.06917
+"302","VINCENT MEMORIAL HOSPITAL","http://www.massgeneral.org/vcrb/about/hospitalhistory.aspx","Social","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",1841023,42.36008,-71.05888
+"303","UNIVERSITY OF MASSACHUSETTS FOUNDATION INC","https://www.umassp.edu/foundation","Social","TBD","TBD","TBD",55826719,42.35793,-71.06205
+"304","BOSTON LATIN SCHOOL ASSOCIATION","http://www.bls.org/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",9039273,42.3132,-71.09708
+"305","AMERICAN FONDOUK MAINTENANCE COMMITTEE INC","http://www.americanfondouk.org/index.html","Social","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",3046547,42.32289,-71.11121
+"306","FRENCH CULTURAL CENTER INC","http://frenchculturalcenter.org/","Social","TBD","TBD","TBD",3256721,42.35408,-71.07479
+"307","BOSTON BAR FOUNDATION INC","http://www.bostonbarfoundation.org/","Social","TBD","TBD","TBD",1796314,42.35777,-71.06251
+"308","BOSTON ATHLETIC ASSOC","http://www.baa.org/","Social","TBD","TBD","TBD",16188593,42.34866,-71.07598
+"309","JOHN FITZGERALD KENNEDY LIBRARY FOUNDATION INCORPORATED","http://www.jfklibrary.org/About-Us/JFK-Library-Foundation.aspx","Social","TBD","TBD","TBD",8716805,42.31485,-71.0354
+"310","MASSACHUSETTS BAR FOUNDATION INC","http://www.massbarfoundation.org/","Social","TBD","TBD","TBD",2646933,42.25783,-71.11683
+"311","CONSERVATION LAW FOUNDATION INC","http://www.clf.org/","Social","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",8594019,42.35436,-71.05855
+"312","TRUSTEES OF THE PUBLIC LIBRARY OF THE CITY OF BOSTON","http://www.bpl.org/general/trustees/trustees.htm","Social","TBD","TBD","TBD",10700152,42.34942,-71.07883
+"313","JOBS FOR THE FUTURE INC","http://www.jff.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",31221336,42.35754,-71.05239
+"314","FIDELITY INVESTMENTS CHARITABLE GIFT FUND","https://www.fidelitycharitable.org/","Social","TBD","TBD","TBD",5393562395,42.35148,-71.04047
+"315","WORLD EDUCATION INC","http://www.worlded.org/WEIInternet/","Social","TBD","TBD","TBD",38248815,42.35234,-71.04808
+"316","VOICE HEALTH INSTITUTE","http://www.voicehealth.org/","Social","TBD","TBD","TBD",460338,42.36183,-71.06216
+"317","ANATOLIA COLLEGE","http://www.anatolia.edu.gr/","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",30270210,42.35861,-71.05957
+"318","ARCHAEOLOGICAL INSTITUTE OF AMERICA","https://www.archaeological.org/","Social","TBD","TBD","TBD",7337733,42.34937,-71.09602
+"319","TELLUS INSTITUTE INC","http://www.tellus.org/","Social","TBD","TBD","TBD",547764,42.35424,-71.07225
+"320","FRONTIER SCIENCE AND TECHNOLOGY RESEARCH FOUNDATION INC","https://www.frontierscience.org/","Social","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",36883978,42.35056,-71.11622
+"321","ROSE FITZGERALD KENNEDY GREENWAY CONSERVANCY INC","http://www.rosekennedygreenway.org/","Social","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",6179867,42.34886,-71.0579
+"322","AMC MAINE WOODS INC","https://www.outdoors.org/conservation/maine-woods/","Social","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",1346935,42.35796,-71.0654
+"323","FSG INC","http://www.fsg.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",26179812,42.35044,-71.07427
+"324","ASIAN HEALTHCARE FOUNDATION OFMASSACHUSETTS INC","http://theasianhealthfoundation.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",1834171,42.35098,-71.05756
+"325","CATHOLIC SCHOOLS FOUNDATION INC","https://www.csfboston.org/","Social","Opportunity","Access to Advanced Education","Inequality in the attainment of education",15804389,42.35699,-71.05356
+"326","SAINT FRANCIS HOUSE INC","http://www.stfrancishouse.org/site/PageServer?pagename=SFH_homepage","Social","Basic Human Needs","Shelter","Housing support",9133904,42.31788,-71.10856
+"327","BIH PATHOLOGY FOUNDATION INC",NA,"Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",850424,42.36008,-71.05888
+"328","BOSTON COMMUNITY LOAN FUND INC","http://www.bostoncommunitycapital.org/programs-services/loan-fund","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",11284433,42.32929,-71.08638
+"329","CAREGROUP INC","http://www.caregroup.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",17390426,42.34629,-71.10083
+"330","MASSACHUSETTS EYE AND EAR ASSOCIATES INCORPORATED","http://www.masseyeandear.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",106003067,42.36276,-71.07013
+"331","HUNTINGTON THEATRE COMPANY INC","http://www.huntingtontheatre.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",12170011,42.34172,-71.08554
+"332","AIDS ACTION COMMITTEE OF MASSACHUSETTS INC","http://www.aac.org/?referrer=https://www.google.com/","Social","Basic Human Needs","Nutrition and Basic Medical Care","Deaths from infectious diseases",10917610,42.32069,-71.09981
+"333","HARVARD MEDICAL FACULTY PHYS AT BETH ISRAEL DEACONESS MED CTR INC","http://www.hmfphysicians.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",460438994,42.33987,-71.10837
+"334","MAKE-A-WISH FOUNDATION OF MASSACHUSETTS AND RHODE ISLAND INC","http://massri.wish.org/#sm.001vsrpm21du2euqywz1213zbkbu2","Social","TBD","TBD","TBD",6069826,42.36162,-71.06087
+"335","CITY YEAR INC","https://www.cityyear.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",140778529,42.34696,-71.07433
+"336","CELEBRITY SERIES OF BOSTON","http://celebrityseries.org/","Social","Opportunity","Personal Freedom and Choice","Freedom over life choices",6770829,42.35134,-71.06897
+"337","CERES INC","http://www.ceres.org/","Social","Opportunity","Personal Freedom and Choice","Freedom over life choices",11200281,42.35307,-71.06098
+"338","TECHNICAL ASSISTANCE COLLABORATIVE INC","http://www.tacinc.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",7188129,42.35095,-71.07157
+"339","TENANTS DEVELOPMENT CORPORATION","http://tenantsdevelopment.com/","Social","Opportunity","Tolerance and Inclusion","Community safety net",6837493,42.34155,-71.08271
+"340","OXFAM-AMERICA INC","https://www.oxfamamerica.org/","Social","TBD","TBD","TBD",92324198,42.36675,-71.05932
+"341","AMERICAN CENTER OF ORIENTAL RESEARCH IN AMMAN","http://acorjordan.org/index.php/en/","Social","TBD","TBD","TBD",4751867,42.34937,-71.09602
+"342","PLANNING OFFICE FOR URBAN AFFAIRS INC","http://www.poua.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",1273548,42.35915,-71.05565
+"343","EARTHWATCH INSTITUTE INC","http://earthwatch.org/","Social","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",8002847,42.36321,-71.12444
+"344","GREATER BOSTON CHINESE GOLDEN AGE CENTER INC","http://www.gbcgac.org/","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",7183724,42.3501,-71.06067
+"345","CASPAR INC","http://www.casparinc.org/","Social","TBD","TBD","TBD",4068077,42.36367,-71.05969
+"346","NEW ENGLAND CONSERVATORY OF MUSIC","http://necmusic.edu/","Social","TBD","TBD","TBD",89773950,42.34116,-71.08656
+"347","HALE-BARNARD CORPORATION","http://www.halebarnard.org/","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",2667635,42.35378,-71.07651
+"348","AMERICAN CIVIL LIBERTIES UNION FOUNDATION OF MASSACHUSETTS","https://aclum.org/","Social","Opportunity","Personal Rights","Political rights",2618854,42.35448,-71.0554
+"349","HARVARD MANAGEMENT COMPANY INC","http://www.hmc.harvard.edu/","Social","Opportunity","Access to Advanced Education","Globally ranked universities",210425323,42.35273,-71.05364
+"350","FRIENDS OF THE PUBLIC GARDEN INC","http://friendsofthepublicgarden.org/","Social","Foundations of Wellbeing","Ecosystem Sustainability","Biodiversity and habitat",2619413,42.35626,-71.06982
+"351","THE AMERICAN IRELAND FUND","https://www.theirelandfunds.org/about","Social","Opportunity","Tolerance and Inclusion","Tolerance for immigrants",28347285,42.35448,-71.0554
+"352","CHARTER SCHOOL FINANCING PARTNERSHIP LLC","http://www.housingpartnership.net/enterprises/charter-school-financing/","Social","Opportunity","Access to Advanced Education","Inequality in the attainment of education",207793,42.3593,-71.05799
+"353","FAB FOUNDATION","http://fabfoundation.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",1632548,42.357,-71.05762
+"354","TUFTS MEDICAL CENTER PARENT INC","https://www.tuftsmedicalcenter.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",756927180,42.36008,-71.05888
+"355","EDWARD M KENNEDY INSTITUTE FOR THE UNITED STATES SENATE INC","https://www.emkinstitute.org/","Social","Opportunity","Personal Rights","Political rights",9881011,42.31485,-71.0354
+"356","CLINTON HEALTH ACCESS INITIATIVE INC","http://www.clintonhealthaccess.org/","Social","Basic Human Needs","Nutrition and Basic Medical Care","Deaths from infectious diseases",141696956,42.33501,-71.05764
+"357","JA WORLDWIDE INC","https://www.jaworldwide.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",17223020,42.3503,-71.0571
+"358","SOCIAL FINANCE INC","http://socialfinance.org/contact-us/","Social","TBD","TBD","TBD",6936909,42.35676,-71.05812
+"359","HANSJORG WYSS INSTITUTE FOR BIOLOGICALLY INSPIRED ENGINEERING","http://wyss.harvard.edu/","Social","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",37591760,42.33903,-71.10426
+"360","CAPE ELEUTHERA FOUNDATION INC","http://www.capeeleutherafoundation.org/#welcome1","Social","Opportunity","Tolerance and Inclusion","Community safety net",3764644,42.35185,-71.05743
+"361","PRESERVATION OF AFFORDABLE HOUSING INC","http://www.poah.org/","Social","Basic Human Needs","Shelter","Availability of affordable housing",39037562,42.35893,-71.05928
+"362","THE BRIDGESPAN GROUP INC","http://www.bridgespan.org/Home.aspx","Social","TBD","TBD","TBD",74297307,42.34735,-71.0783
+"363","HILLEL THE FOUNDATION FOR JEWISH CAMPUS LIFE","http://www.hillel.org/","Social","Opportunity","Personal Freedom and Choice","Freedom of religion",1352303,42.3508,-71.10311
+"364","THE RED SOX FOUNDATION INC","https://www.redsoxfoundation.org/","Social","TBD","TBD","TBD",6794114,42.34584,-71.09878
+"365","PROJECT PLACE GATEHOUSE INC","http://projectplace.org/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",8696110,42.34387,-71.06634
+"366","BUILDING EXCELLENT SCHOOLS INC","http://buildingexcellentschools.org/","Social","Opportunity","Access to Advanced Education","Inequality in the attainment of education",12301533,42.35648,-71.05801
+"367","NEWBRIDGE ON THE CHARLES INC","http://www.hebrewseniorlife.org/newbridge","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",44772608,42.29679,-71.13098
+"368","HEALTH LEADS INC","https://healthleadsusa.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",16046454,42.35744,-71.05931
+"369","TAUNTON DEVELOPMENT MASSDEVELOPMENT CORPORATION","http://www.massdevelopment.com/news/taunton-development-massdevelopment-corp.-helps-startup-makerspace-south-co/","Social","Opportunity","Personal Freedom and Choice","Employment opportunity",2969807,42.35418,-71.0547
+"370","COMMUNITY SCHOLARSHIP FOUNDATION INC","http://bcsfds.dollarsforscholars.org/index.php?section=chapterWebsite&action=main&fwID=1272","Social","Opportunity","Access to Advanced Education","Years of tertiary schooling",637037,42.34722,-71.08184
+"371","KIT CLARK SENIOR SERVICES INC","https://www.baycove.org/bcexternal/index.cfm?objectID=E86A70C0-27C3-11DF-9533000423B5542E","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",8925388,42.36367,-71.05969
+"372","DANA-FARBER CANCER CARE NETWORK INC","http://www.dana-farber.org/","Social","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",6775358,42.33749,-71.10814
+"373","THE WANG CENTER FOR THE PERFORMING ARTS INC","http://www.citicenter.org/","Social","Opportunity","Personal Freedom and Choice","Freedom over life choices",11560663,42.35028,-71.06496
+"374","NELSON MANDELA CHILDRENS FUND USA INC","http://www.nelsonmandelachildrensfundusa.org/","Social","TBD","TBD","TBD",10456806,42.35185,-71.05743
+"375","CAMP HARBOR VIEW FOUNDATION INC","http://chvf.org/","Social","Opportunity","Tolerance and Inclusion","Community safety net",3989629,42.34922,-71.07512
+"376","HEBREW SENIOR LIFE INC","http://www.hebrewseniorlife.org/","Social","Foundations of Wellbeing","Health and Wellness","Care for aging",23365197,42.29679,-71.13098
+"377","PARTNERS HEALTHCARE SYSTEM INC","http://www.partners.org/","Social","Foundations of Wellbeing","Health and Wellness","Life expectancy",11091388129,42.36315,-71.06883
+"378","AlliedBarton Security Services","alliedbarton.com/boston","Private","Opportunity","Personal Rights","Private property rights",1.306e+09,42.34688,-71.08112
+"379","Securitas Security Services USA Inc.","securitasinc.com","Private","Opportunity","Personal Rights","Private property rights",4.707e+09,42.34551,-71.03551
+"380","SecurAmerica LLC","securamericallc.com","Private","Opportunity","Personal Rights","Private property rights",7.4e+07,42.35648,-71.05801
+"381","Elite Protective Services","eliteprotective.com","Private","Opportunity","Personal Rights","Private property rights",1500000,42.32816,-71.07246
+"382","Gourmet Caterers Inc.","gourmetcaterers.com","Private","Foundations of Wellbeing","Health and Wellness","Obesity rate",7820000,42.29621,-71.1182
+"383","Milk Street Cafe","milkstreetcafe.com","Private","Foundations of Wellbeing","Health and Wellness","Obesity rate",2850000,42.357,-71.05762
+"384","Au Bon Pain","aubonpain.com","Private","Foundations of Wellbeing","Health and Wellness","Obesity rate",296270000,42.34661,-71.02837
+"385","Above and Beyond Catering Inc.","aboveabc.com/","Private","Foundations of Wellbeing","Health and Wellness","Obesity rate",2e+06,42.3389,-71.06786
+"386","Boston Park Plaza","bostonparkplaza.com","Private","Opportunity","Personal Rights","Freedom of assembly/association",22270000,42.35104,-71.0697
+"387","Hilton Boston Logan Airport","BostonLogan.Hilton.com","Private","Opportunity","Personal Rights","Freedom of assembly/association",4620000,42.3674,-71.0231
+"388","InterContinental Boston","intercontinentalboston.com","Private","Opportunity","Personal Rights","Freedom of assembly/association",11500000,42.3539,-71.05206
+"389","The Lenox Hotel","lenoxhotel.com","Private","Opportunity","Personal Rights","Freedom of assembly/association",8410000,42.34915,-71.07963
+"390","CBRE/New England","cbre-ne.com","Private","Opportunity","Personal Rights","Private property rights",41230000,42.35617,-71.05842
+"391","Cushman & Wakefield","cushmanwakefield.com","Private","Opportunity","Personal Rights","Private property rights",2251390000,42.35603,-71.05405
+"392","JLL","jll.com/boston","Private","Opportunity","Personal Rights","Private property rights",5.956e+09,42.35672,-71.05478
+"393","NAI Hunneman","naihunneman.com","Private","Opportunity","Personal Rights","Private property rights",520000,42.35123,-71.0506
+"394","Cresa Boston","cresa.com/boston","Private","Opportunity","Personal Rights","Private property rights",196550000,42.36003,-71.05317
+"395","Related Beal","relatedbeal.com","Private","Opportunity","Personal Rights","Private property rights",9030000,42.35839,-71.05251
+"396","Vesper Realty Advisors Inc.","vesper-ne.com","Private","Opportunity","Personal Rights","Private property rights",430000,42.35525,-71.05844
+"397","Conventures Inc.","conventures.com","Private","TBD","TBD","TBD",1500000,42.34427,-71.03057
+"398","Corinthian Events","corinthianevents.com","Private","TBD","TBD","TBD",6580000,42.3523,-71.05958
+"399","NXTevent Inc.","nxtevent.com","Private","TBD","TBD","TBD",890000,42.33951,-71.03735
+"400","Altieri Events LLC","aeevents.com","Private","TBD","TBD","TBD",680000,42.33574,-71.04238
+"401","Polaris Partners","polarispartners.com","Private","TBD","TBD","TBD",70380000,42.3532,-71.04535
+"402","MPM Capital LLC","mpmcapital.com","Private","TBD","TBD","TBD",7760000,42.34922,-71.07512
+"403","Bain Capital Ventures","baincapitalventures.com","Private","TBD","TBD","TBD",14590000,42.34922,-71.07512
+"404","Flybridge Capital Partners","flybridge.com","Private","TBD","TBD","TBD",5410000,42.35044,-71.07427
+"405","OpenView Venture Partners","openviewpartners.com","Private","TBD","TBD","TBD",190000,42.35123,-71.0506
+"406","Point Judith Capital","pointjudithcapital.com","Private","TBD","TBD","TBD",240000,42.35448,-71.0554
+"407","Globespan Capital Partners","globespancapital.com","Private","TBD","TBD","TBD",710000,42.35856,-71.05839
+"408","RockPort Capital Partners","rockportcap.com","Private","TBD","TBD","TBD",170000,42.35407,-71.05585
+"409","Advanced Technology Ventures","atvcapital.com","Private","TBD","TBD","TBD",2500000,42.35044,-71.07427
+"410","Ropes & Gray LLP","ropesgray.com","Private","Opportunity","Personal Rights","Private property rights",335430000,42.34852,-71.0823
+"411","Goodwin Procter LLP","http://www.goodwinlaw.com/","Private","Opportunity","Personal Rights","Private property rights",307140000,42.3585,-71.05618
+"412","WilmerHale","wilmerhale.com","Private","Opportunity","Personal Rights","Private property rights",343640000,42.3594,-71.05643
+"413","Mintz Levin Cohn Ferris Glovsky & Popeo PC","mintz.com","Private","Opportunity","Personal Rights","Private property rights",163770000,42.35221,-71.05641
+"414","Morgan, Lewis & Bockius LLP","morganlewis.com","Private","Opportunity","Personal Rights","Private property rights",701270000,42.35611,-71.05683
+"415","Choate Hall & Stewart LLP","choate.com","Private","Opportunity","Personal Rights","Private property rights",60310000,42.35643,-71.05191
+"416","Goulston & Storrs PC","goulstonstorrs.com","Private","Opportunity","Personal Rights","Private property rights",440000,42.35563,-71.05035
+"417","Nutter McClennen & Fish LLP","nutter.com","Private","Opportunity","Personal Rights","Private property rights",38070000,42.34961,-71.04272
+"418","Nixon Peabody LLP","nixonpeabody.com","Private","Opportunity","Personal Rights","Private property rights",193200000,42.3539,-71.05734
+"419","Holland & Knight LLP","hklaw.com","Private","Opportunity","Personal Rights","Private property rights",363350000,42.35038,-71.07095
+"420","Sullivan & Worcester LLP","sandw.com","Private","Opportunity","Personal Rights","Private property rights",51450000,42.35672,-71.05478
+"421","Burns & Levinson LLP","burnslev.com","Private","Opportunity","Personal Rights","Private property rights",25320000,42.3531,-71.0574
+"422","Locke Lord LLP","lockelord.com","Private","Opportunity","Personal Rights","Private property rights",291910000,42.3461,-71.08145
+"423","Proskauer","proskauer.com","Private","Opportunity","Personal Rights","Private property rights",248940000,42.35582,-71.05223
+"424","K&L Gates LLP","klgates.com","Private","Opportunity","Personal Rights","Private property rights",461270000,42.35277,-71.05861
+"425","Morrison Mahoney LLP","morrisonmahoney.com","Private","Opportunity","Personal Rights","Private property rights",36840000,42.35076,-71.05077
+"426","Seyfarth Shaw LLP","seyfarth.com","Private","Opportunity","Personal Rights","Private property rights",271900000,42.34893,-71.04084
+"427","McCarter & English LLP","mccarter.com","Private","Opportunity","Personal Rights","Private property rights",206440000,42.3565,-71.05337
+"428","Brown Rudnick LLP","brownrudnick.com","Private","Opportunity","Personal Rights","Private property rights",67400000,42.35221,-71.05641
+"429","Rubin and Rudman LLP","rubinrudman.com","Private","Opportunity","Personal Rights","Private property rights",17420000,42.3566,-71.05025
+"430","Wolf, Greenfield & Sacks","wolfgreenfield.com","Private","Opportunity","Personal Rights","Private property rights",29130000,42.35273,-71.05364
+"431","DLA Piper","dlapiper.com","Private","Opportunity","Personal Rights","Private property rights",1174370000,42.35617,-71.05842
+"432","Riemer & Braunstein LLP","riemerlaw.com","Private","Opportunity","Personal Rights","Private property rights",16320000,42.35941,-71.06016
+"433","McDermott Will & Emery LLP","mwe.com","Private","Opportunity","Personal Rights","Private property rights",1550370000,42.35943,-71.05745
+"434","Greenberg Traurig LLP","gtlaw.com","Private","Opportunity","Personal Rights","Private property rights",312350000,42.35582,-71.05223
+"435","Prince Lobel Tye LLP","princelobel.com","Private","Opportunity","Personal Rights","Private property rights",19040000,42.36047,-71.06209
+"436","Fish & Richardson PC","fr.com","Private","Opportunity","Personal Rights","Private property rights",96480000,42.3532,-71.04535
+"437","Nelson Mullins Riley & Scarborough LLP","nelsonmullins.com","Private","Opportunity","Personal Rights","Private property rights",146430000,42.35672,-71.05478
+"438","Hinckley Allen","hinckleyallen.com","Private","Opportunity","Personal Rights","Private property rights",53040000,42.35943,-71.05745
+"439","Skadden, Arps, Slate, Meagher & Flom LLP & Associates","skadden.com","Private","Opportunity","Personal Rights","Private property rights",649620000,42.35044,-71.07427
+"440","Peabody & Arnold LLP","peabodyarnold.com","Private","Opportunity","Personal Rights","Private property rights",34690000,42.35273,-71.05364
+"441","Latham & Watkins LLP","lw.com","Private","Opportunity","Personal Rights","Private property rights",782970000,42.34922,-71.07512
+"442","Posternak Blankstein & Lund LLP","pbl.com","Private","Opportunity","Personal Rights","Private property rights",11900000,42.34852,-71.0823
+"443","Rackemann, Sawyer & Brewster","rackemann.com","Private","Opportunity","Personal Rights","Private property rights",50000,42.35407,-71.05585
+"444","LeClair Ryan","leclairryan.com","Private","Opportunity","Personal Rights","Private property rights",124480000,42.35582,-71.05223
+"445","Todd & Weld LLP","toddweld.com","Private","Opportunity","Personal Rights","Private property rights",11340000,42.35611,-71.05683
+"446","Sherin and Lodgen LLP","sherin.com","Private","Opportunity","Personal Rights","Private property rights",10350000,42.355,-71.05682
+"447","Lawson & Weitzen LLP","lawson-weitzen.com","Private","Opportunity","Personal Rights","Private property rights",6840000,42.34388,-71.02417
+"448","Jones Day","jonesday.com","Private","Opportunity","Personal Rights","Private property rights",989200000,42.35447,-71.0554
+"449","Cetrulo LLP","cetrulollp.com","Private","Opportunity","Personal Rights","Private property rights",12980000,42.34893,-71.04084
+"450","Dechert LLP","dechert.com","Private","Opportunity","Personal Rights","Private property rights",341160000,42.35582,-71.05223
+"451","Hemenway & Barnes LLP","hembar.com","Private","Opportunity","Personal Rights","Private property rights",18100000,42.35866,-71.05507
+"452","Pepper Hamilton LLP","pepperlaw.com","Private","Opportunity","Personal Rights","Private property rights",213150000,42.35529,-71.05308
+"453","Day Pitney LLP","daypitney.com","Private","Opportunity","Personal Rights","Private property rights",119010000,42.35582,-71.05223
+"454","Donovan Hatem LLP","donovanhatem.com","Private","Opportunity","Personal Rights","Private property rights",13820000,42.3585,-71.05618
+"455","Sunstein Kann Murphy & Timbers LLP","sunsteinlaw.com","Private","Opportunity","Personal Rights","Private property rights",10470000,42.3531,-71.0574
+"456","Weil, Gotshal & Manges LLP","weil.com","Private","Opportunity","Personal Rights","Private property rights",380780000,42.35516,-71.05587
+"457","Duane Morris LLP","duanemorris.com","Private","Opportunity","Personal Rights","Private property rights",318970000,42.35447,-71.0554
+"458","Robinson & Cole LLP","rc.com","Private","Opportunity","Personal Rights","Private property rights",77120000,42.35856,-71.05839
+"459","Manion Gaynor & Manning LLP","mgmlaw.com","Private","Opportunity","Personal Rights","Private property rights",14710000,42.35529,-71.05308
+"460","Murtha Cullina LLP","murthalaw.com","Private","Opportunity","Personal Rights","Private property rights",47780000,42.35418,-71.0547
+"461","Jackson Lewis LLP","jacksonlewis.com","Private","Opportunity","Personal Rights","Private property rights",3390000,42.35166,-71.06988
+"462","Conn Kavanaugh Rosenthal Peisch & Ford LLP","connkavanaugh.com","Private","Opportunity","Personal Rights","Private property rights",7230000,42.35743,-71.05574
+"463","Morgan, Brown & Joy LLP","morganbrown.com","Private","Opportunity","Personal Rights","Private property rights",620000,42.36003,-71.05317
+"464","Sugarman, Rogers, Barshak & Cohen PC","srbc.com","Private","Opportunity","Personal Rights","Private property rights",6820000,42.36385,-71.06167
+"465","Pierce Atwood LLP","pierceatwood.com","Private","Opportunity","Personal Rights","Private property rights",37870000,42.3539,-71.05734
+"466","Gesmer Updegrove LLP","gesmer.com","Private","Opportunity","Personal Rights","Private property rights",7010000,42.35841,-71.05384
+"467","Rich May, PC","richmaylaw.com","Private","Opportunity","Personal Rights","Private property rights",2670000,42.35351,-71.05578
+"468","Verrill Dana","verrilldana.com","Private","Opportunity","Personal Rights","Private property rights",27600000,42.35856,-71.05839
+"469","Ruberto, Israel & Weiner","riw.com","Private","Opportunity","Personal Rights","Private property rights",6220000,42.35938,-71.05129
+"470","Collora","collorallp.com","Private","Opportunity","Personal Rights","Private property rights",5820000,42.35447,-71.0554
+"471","Bernkopf Goodman LLP","bg-llp.com","Private","Opportunity","Personal Rights","Private property rights",6590000,42.34893,-71.04084
+"472","Littler","littler.com","Private","Opportunity","Personal Rights","Private property rights",311900000,42.35582,-71.05223
+"473","Melick & Porter LLP","melicklaw.com","Private","Opportunity","Personal Rights","Political rights",7570000,42.35772,-71.05484
+"474","Partridge Snow & Hahn LLP","psh.com","Private","Opportunity","Personal Rights","Political rights",14590000,42.35497,-71.0588
+"475","Hamel, Marcin, Dunn, Reardon & Shea PC","hmdrslaw.com","Private","Opportunity","Personal Rights","Political rights",6e+05,42.35497,-71.0588
+"476","Krokidas and Bluestein LLP","kb-law.com","Private","Opportunity","Personal Rights","Political rights",3130000,42.35497,-71.0588
+"477","Sally & Fitch  LLP","sally-fitch.com","Private","Opportunity","Personal Rights","Political rights",3220000,42.36183,-71.06216
+"478","Rudolph Friedmann LLP","rflawyers.com","Private","Opportunity","Personal Rights","Political rights",580000,42.36183,-71.06216
+"479","Wilson Elser","wilsonelser.com","Private","Opportunity","Personal Rights","Political rights",318190000,42.36183,-71.06216
+"480","Hackett Feinberg PC","http://www.bostonbusinesslaw.com/index.php","Private","Opportunity","Personal Rights","Political rights",2990000,42.35366,-71.05664
+"481","Robins Kaplan LLP","rkmc.com","Private","Opportunity","Personal Rights","Political rights",99540000,42.34852,-71.0823
+"482","Sassoon & Cymrot LLP","sassooncymrot.com","Private","Opportunity","Personal Rights","Political rights",2500000,42.35915,-71.05565
+"483","Boston Properties","bostonproperties.com","Private","Basic Human Needs","Shelter","Housing support",2487660000,42.34852,-71.0823
+"484","Intercontinental Management Corp.","intercontinental.net","Private","Basic Human Needs","Shelter","Housing support",11660000,42.36355,-71.13835
+"485","Synergy Investments","synergy-inv.com","Private","Basic Human Needs","Shelter","Housing support",2750000,42.35561,-71.05769
+"486","Normandy Real Estate Partners","normandyrealty.com","Private","Basic Human Needs","Shelter","Housing support",130000,42.35369,-71.05842
+"487","RSM","rsmus.com","Private","TBD","TBD","TBD",1.471e+09,42.37155,-71.06086
+"488","Wolf & Co. PC","wolfandco.com","Private","TBD","TBD","TBD",1800000,42.35418,-71.0547
+"489","Marcum LLP","marcumllp.com","Private","TBD","TBD","TBD",251390000,42.3585,-71.05618
+"490","BDO USA LLP","bdo.com","Private","TBD","TBD","TBD",614560000,42.35643,-71.05191
+"491","Edelstein & Co.","edelsteincpa.com","Private","TBD","TBD","TBD",8060000,42.35407,-71.05585
+"492","Walter & Shuffain PC","wscpa.com","Private","TBD","TBD","TBD",5350000,42.35582,-71.05223
+"493","Raphael and Raphael LLP","rrllp.com","Private","TBD","TBD","TBD",1400000,42.30892,-71.06073
+"494","Miller Wachman LLP","millerwachman.com","Private","TBD","TBD","TBD",3430000,42.36047,-71.06209
+"495","Novogradac & Co. LLP","novoco.com","Private","TBD","TBD","TBD",970000,42.35497,-71.0588
+"496","Weber Shandwick","webershandwick.com","Private","TBD","TBD","TBD",330000,42.35841,-71.05384
+"497","451 Marketing","451marketing.com","Private","TBD","TBD","TBD",8430000,42.36599,-71.05881
+"498","PAN Communications","pancommunications.com","Private","TBD","TBD","TBD",8040000,42.35938,-71.05129
+"499","Rasky Baerlein Strategic Communications","rasky.com","Private","TBD","TBD","TBD",5980000,42.3557,-71.05811
+"500","fama PR Inc.","famapr.com","Private","TBD","TBD","TBD",2620000,42.3489,-71.03829
+"501","Kel & Partners","kelandpartners.com","Private","TBD","TBD","TBD",3500000,42.34422,-71.03108
+"502","360 Public Relations","360PR.com","Private","TBD","TBD","TBD",6240000,42.36003,-71.05317
+"503","marlo marketing","marlomarketing.com","Private","TBD","TBD","TBD",890000,42.3539,-71.05965
+"504","FleishmanHillard","fleishmanhillard.com","Private","TBD","TBD","TBD",5240000,42.34883,-71.08313
+"505","Denterlein","denterlein.com","Private","TBD","TBD","TBD",620000,42.35667,-71.05649
+"506","Solomon McCown & Co. Inc.","solomonmccown.com","Private","TBD","TBD","TBD",2e+06,42.35839,-71.05251
+"507","Schneider Associates","schneiderpr.com","Private","TBD","TBD","TBD",4580000,42.35717,-71.05433
+"508","Foley & Lardner LLP","foley.com","Private","TBD","TBD","TBD",422330000,42.3461,-71.08145
+"509","Finnegan, Henderson, Farabow, Garrett & Dunner LLP","finnegan.com","Private","Opportunity","Personal Rights","Political rights",109553000,42.34893,-71.04084
+"510","Fiksu Inc.","fiksu.com","Private","TBD","TBD","TBD",8470000,42.35095,-71.07157
+"511","Mendix Inc.","mendix.com","Private","TBD","TBD","TBD",22640000,42.35057,-71.05019
+"512","Apperian","apperian.com","Private","TBD","TBD","TBD",9030000,42.35841,-71.05384
+"513","Kinvey","kinvey.com","Private","TBD","TBD","TBD",3340000,42.34915,-71.04864
+"514","Swirl Networks","swirl.com","Private","TBD","TBD","TBD",490000,42.35841,-71.05384
+"515","Wanderu","wanderu.com","Private","TBD","TBD","TBD",450000,42.35706,-71.05208
+"516","InCrowd","incrowd.com","Private","TBD","TBD","TBD",2430000,42.34672,-71.06942
+"517","Rethink Robotics","rethinkrobotics.com","Private","TBD","TBD","TBD",5110000,42.347,-71.04936
+"518","Jibo Inc.","jibo.com","Private","TBD","TBD","TBD",2900000,42.35455,-71.05409
+"519","Empire Robotics Inc.","empirerobotics.com","Private","TBD","TBD","TBD",350000,42.3454,-71.03681
+"520","Santander Bank N.A.","santanderbank.com","Private","TBD","TBD","TBD",82023780000,42.35866,-71.05507
+"521","MFS Investment Management","mfs.com","Private","TBD","TBD","TBD",2480000,42.3461,-71.08145
+"522","DigitasLBi","digitaslbi.com","Private","TBD","TBD","TBD",111680000,42.35617,-71.05842
+"523","Arnold Worldwide","arn.com","Private","TBD","TBD","TBD",124260000,42.35548,-71.05978
+"524","Intarcia Therapeutics Inc.","intarcia.com","Private","Foundations of Wellbeing","Health and Wellness","Life expectancy",22690000,42.34961,-71.04272
+"525","Wayfair Inc.","wayfair.com","Private","TBD","TBD","TBD",2249890000,42.3472,-71.0783
+"526","Pulse Media Inc.","pulse-media.com","Private","TBD","TBD","TBD",7e+05,42.34747,-71.06864
+"527","Acquia","acquia.com","Private","TBD","TBD","TBD",40030000,42.3585,-71.05618
+"528","DraftKings Inc.","draftkings.com","Private","TBD","TBD","TBD",7780000,42.35603,-71.05405
+"529","EPIRUS Biopharmaceuticals Inc.","epirusbiopharma.com","Private","TBD","TBD","TBD",7e+05,42.34989,-71.07923
+"530","Dane Street","danestreet.com","Private","TBD","TBD","TBD",19660000,42.29772,-71.11658
+"531","Raizlabs","raizlabs.com","Private","TBD","TBD","TBD",1210000,42.357,-71.05762
+"532","Strategic Workspaces","strategicworkspaces.com","Private","TBD","TBD","TBD",5110000,42.35841,-71.05384
+"533","Beacon Hill Staffing Group","beaconhillstaffing.com","Private","Opportunity","Personal Freedom and Choice","Employment opportunity",57630000,42.35826,-71.06241
+"534","Fort Point Project Management","fortpointpm.com","Private","Basic Human Needs","Shelter","Housing support",3e+05,42.35187,-71.04958
+"535","Dashed","dashed.com","Private","TBD","TBD","TBD",4150000,42.38104,-71.08006
+"536","LABUR","labur.com","Private","Opportunity","Personal Freedom and Choice","Employment opportunity",2200000,42.35717,-71.05433
+"537","The Colony Group LLC","thecolonygroup.com","Private","TBD","TBD","TBD",13140000,42.36397,-71.05029
+"538","Customer Portfolios","customerportfolios.com","Private","TBD","TBD","TBD",6500000,42.34388,-71.02417
+"539","Verndale","verndale.com","Private","TBD","TBD","TBD",11980000,42.33344,-71.05553
+"540","R.G. Vanderweil Engineers LLP","vanderweil.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",55310000,42.35044,-71.04996
+"541","Elkus Manfredi Architects","http://www.elkus-manfredi.com/","Private","Basic Human Needs","Shelter","Housing support",54350000,NA,NA
+"542","Unidine Corp.","unidine.com","Private","Basic Human Needs","Nutrition and Basic Medical Care","Depth of food deficit",128750000,42.34585,-71.0643
+"543","Fidelity Investments","fidelity.com","Private","TBD","TBD","TBD",24535030000,42.35143,-71.05383
+"544","International Data Group (IDG)","idg.com","Private","TBD","TBD","TBD",3.55e+09,42.34989,-71.07923
+"545","Suffolk Construction","suffolk.com","Private","Basic Human Needs","Shelter","Housing support",1761100000,42.32835,-71.07029
+"546","Plymouth Rock Co.","plymouthrock.com","Private","TBD","TBD","TBD",808260000,42.35158,-71.05627
+"547","Shawmut Design and Construction","shawmut.com","Private","Basic Human Needs","Shelter","Housing support",957610000,42.34073,-71.06725
+"548","Analysis Group","www.analysisgroup.com","Private","TBD","TBD","TBD",120670000,42.3461,-71.08145
+"549","Baystate Financial","baystatefinancial.com","Private","TBD","TBD","TBD",240000,42.34922,-71.07512
+"550","NutraClick","nutraclick.com","Private","TBD","TBD","TBD",64200000,42.35744,-71.05931
+"551","Gilbane Building Co.","gilbaneco.com","Private","Basic Human Needs","Shelter","Housing support",3840700000,42.34549,-71.05193
+"552","Structure Tone Inc.","www.structuretone.com","Private","Basic Human Needs","Shelter","Housing support",269820000,42.35116,-71.05666
+"553","Tishman Construction, an AECOM Company","http://www.aecom.com/","Private","Basic Human Needs","Shelter","Housing support",17989880000,42.36025,-71.04882
+"554","Dimeo Construction Co.","dimeo.com","Private","Basic Human Needs","Shelter","Housing support",300930000,42.34433,-71.03598
+"555","McCourt Construction Co. Inc.","mccourtconstruction.com","Private","Basic Human Needs","Shelter","Housing support",122340000,42.33951,-71.03735
+"556","Corderman & Company Inc.","cordermancompany.com","Private","Basic Human Needs","Shelter","Housing support",4590000,42.34864,-71.0502
+"557","The Brickman Group / ValleyCrest Landscape Cos.","http://www.brightview.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","biodiversity and habitat",4038600000,42.35723,-71.15638
+"558","CBT Architects","cbtarchitects.com","Private","Basic Human Needs","Shelter","Housing support",870000,42.36432,-71.06023
+"559","Payette","payette.com","Private","Basic Human Needs","Shelter","Housing support",20130000,42.35327,-71.05256
+"560","Gensler","gensler.com","Private","Basic Human Needs","Shelter","Housing support",1650000,42.35845,-71.06085
+"561","Wilson Architects Inc.","wilsonarch.com","Private","Basic Human Needs","Shelter","Housing support",12480000,42.35002,-71.04734
+"562","ARC/Architectural Resources Cambridge","arcusa.com","Private","Basic Human Needs","Shelter","Housing support",11270000,42.35115,-71.07456
+"563","Steffian Bradley Architects","steffian.com","Private","Basic Human Needs","Shelter","Housing support",1780000,42.35115,-71.07456
+"564","DiMella Shaffer","dimellashaffer.com","Private","Basic Human Needs","Shelter","Housing support",12310000,42.34977,-71.05002
+"565","Perkins+Will Inc.","perkinswill.com","Private","Basic Human Needs","Shelter","Housing support",9390000,42.35603,-71.05405
+"566","EYP Architecture & Engineering","eypae.com","Private","Basic Human Needs","Shelter","Housing support",1620000,42.35415,-71.05141
+"567","Arrowstreet Inc.","arrowstreet.com","Private","Basic Human Needs","Shelter","Housing support",5210000,42.35415,-71.05141
+"568","Bargmann Hendrie + Archetype Inc.","bhplus.com","Private","Basic Human Needs","Shelter","Housing support",5770000,42.35415,-71.05141
+"569","NBBJ","nbbj.com","Private","Basic Human Needs","Shelter","Housing support",107400000,42.35845,-71.06085
+"570","Margulies Perruzzi Architects","mp-architects.com","Private","Basic Human Needs","Shelter","Housing support",6150000,42.35845,-71.06085
+"571","Spagnolo Gisness & Associates Inc.","http://www.sga-arch.com/","Private","Basic Human Needs","Shelter","Housing support",260000,42.35692,-71.05198
+"572","Rapid7","rapid7.com","Private","Opportunity","Personal Rights","Private property rights",110530000,42.3539,-71.05734
+"573","Core Security","coresecurity.com","Private","Opportunity","Personal Rights","Private property rights",10190000,42.35194,-71.04785
+"574","Cigital","cigital.com","Private","Opportunity","Personal Rights","Private property rights",53810000,42.35194,-71.04785
+"575","Colliers International | Boston","colliers.com","Private","Basic Human Needs","Shelter","Housing support",1657940000,42.35407,-71.05585
+"576","Willis of Massachusetts Inc.","willis.com","Private","TBD","TBD","TBD",26840000,42.35044,-71.07427
+"577","Wells Fargo Insurance Services USA Inc.","wfis.wellsfargo.com","Private","TBD","TBD","TBD",9.074e+10,42.34968,-71.07292
+"578","Alliant Insurance Services","alliant.com","Private","TBD","TBD","TBD",18490000,42.35523,-71.05254
+"579","Cleary Insurance Inc.","clearyinsurance.com","Private","TBD","TBD","TBD",4920000,42.36675,-71.05932
+"580","Liberty Mutual Insurance Co.","libertymutual.com","Private","TBD","TBD","TBD",33539960000,42.35006,-71.0718
+"581","Plymouth Rock Assurance Corp.","prac.com","Private","TBD","TBD","TBD",651940000,42.35158,-71.05627
+"582","Safety Indemnity Insurance Co.","safetyinsurance.com","Private","TBD","TBD","TBD",797953000,42.3581,-71.05336
+"583","Medical Professional Mutual Insurance Co.","coverys.com","Private","TBD","TBD","TBD",267860000,42.35221,-71.05641
+"584","Atlantic Charter Insurance Co.","http://www.atlanticcharter.com","Private","TBD","TBD","TBD",30590000,42.36212,-71.06175
+"585","Bunker Hill Insurance Co.","bunkerhillins.com","Private","TBD","TBD","TBD",3e+07,42.35158,-71.05627
+"586","Pilgrim Insurance Co.","pilgrimins.com","Private","TBD","TBD","TBD",23010000,42.35158,-71.05627
+"587","State Street Corp.","statestreet.com","Private","TBD","TBD","TBD",1.076e+10,42.35277,-71.05861
+"588","LPL Financial Holdings Inc.","www.joinlpl.com","Private","TBD","TBD","TBD",4275050000,42.35845,-71.06085
+"589","American Tower Corp.","americantower.com","Private","TBD","TBD","TBD",4771520000,42.34656,-71.07977
+"590","Eaton Vance Corp.","https://www.eatonvance.com/","Private","TBD","TBD","TBD",1403560000,42.35938,-71.05129
+"591","Atlantic Power Corp.","http://www.atlanticpower.com/","Private","Basic Human Needs","Shelter","Access to electricity",420200000,42.35611,-71.05683
+"592","EnerNOC","https://www.enernoc.com/","Private","Basic Human Needs","Shelter","Access to electricity",399580000,42.3532,-71.04535
+"593","Boston Private Financial Holdings Inc.","https://www.bostonprivate.com","Private","TBD","TBD","TBD",374840000,42.35743,-71.05574
+"594","CRA International Inc.","http://www.charlesriverassociates.com/","Private","TBD","TBD","TBD",303560000,42.34922,-71.07512
+"595","Brookline Bancorp Inc.","www.brooklinebank.com","Private","TBD","TBD","TBD",247090000,42.34837,-71.07377
+"596","LogMeIn Inc.","https://www.logmeininc.com/","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",271600000,42.34955,-71.04819
+"597","STAG Industrial Inc.","stagindustrial.com","Private","Opportunity","Personal Rights","Private property rights",218630000,42.35611,-71.05683
+"598","Brightcove Inc.","brightcove.com","Private","TBD","TBD","TBD",134710000,42.35327,-71.05256
+"599","Carbonite Inc.","carbonite.com","Private","TBD","TBD","TBD",136620000,42.34495,-71.0828
+"600","THL Credit Inc.","thlcredit.com","Private","TBD","TBD","TBD",94200000,42.35516,-71.05587
+"601","First Marblehead Corp.","www.firstmarblehead.com","Private","TBD","TBD","TBD",46170000,42.34852,-71.0823
+"602","Greater Boston Chamber of Commerce","bostonchamber.com","Private","Opportunity","Personal Freedom and Choice","Employment opportunity",6600000,42.3565,-71.05337
+"603","Seismic","seismic.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",260000,42.3661,-71.05941
+"604","Wellframe","wellframe.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",620000,42.35066,-71.04893
+"605","McCall & Almy","mccallalmy.com","Private","Opportunity","Personal Rights","Private property rights",2400000,42.35672,-71.05478
+"606","CloudHealth Technologies","cloudhealthtech.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",7800000,42.3503,-71.04952
+"607","Daley And Associates","daleyaa.com","Private","TBD","TBD","TBD",11500000,42.35221,-71.05641
+"608","Kadence International","kadence.com","Private","TBD","TBD","TBD",3410000,42.3539,-71.05965
+"609","Norbella","norbella.com","Private","TBD","TBD","TBD",4700000,42.33898,-71.06765
+"610","Pixability","pixability.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",1950000,42.3658,-71.05808
+"611","InsightSquared","insightsquared.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",22560000,42.3472,-71.0783
+"612","Digital Lumens Inc.","digitallumens.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",9e+06,42.35002,-71.04734
+"613","Slalom","slalom.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",350000,42.3497,-71.07092
+"614","Genuine","genuineinteractive.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",13310000,42.34211,-71.06581
+"615","MaidPro Franchise Corp.","maidpro.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",680000,42.365,-71.058
+"616","Kforce Inc.","kforce.com","Private","TBD","TBD","TBD",1319240000,42.35273,-71.05364
+"617","TEKsystems","teksystems.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",3618560000,42.35617,-71.05842
+"618","Buildium","buildium.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",1680000,42.3539,-71.05965
+"619","Veson Nautical","veson.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",14640000,42.35044,-71.07427
+"620","AppNeta","https://www.appneta.com/","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",20020000,42.34955,-71.0495
+"621","Vertex Pharmaceuticals","vrtx.com","Private","Basic Human Needs","Nutrition and Basic Medical Care","Deaths from infectious diseases",1032340000,42.35343,-71.0462
+"622","Ziopharm Oncology Inc.","ziopharm.com","Private","Foundations of Wellbeing","Health and Wellness","Premature deaths from non-communicable diseases",4330000,42.37525,-71.05449
+"623","Boston Beer Co. Inc.","bostonbeer.com","Private","TBD","TBD","TBD",959930000,42.34427,-71.03057
+"624","Verizon","verizon.com","Private","Foundations of Wellbeing","Access to Information and Communications","Mobile telephone subscriptions",1.32e+11,42.35529,-71.05308
+"625","Adecco","adeccousa.com","Private","TBD","TBD","TBD",5813630000,42.35369,-71.05842
+"626","Professional Staffing Group","psgstaffing.com","Private","TBD","TBD","TBD",7060000,42.35366,-71.05664
+"627","Total Clerical Services Inc.","pggna.com","Private","TBD","TBD","TBD",10550000,42.35861,-71.05957
+"628","John Leonard Employment Services Inc.","johnleonard.com","Private","TBD","TBD","TBD",4660000,42.355,-71.05675
+"629","Hollister Staffing Inc.","hollisterstaff.com","Private","TBD","TBD","TBD",7270000,42.35866,-71.05507
+"630","ACE Employment Services Inc.","aceboston.net","Private","TBD","TBD","TBD",1030000,42.35907,-71.0548
+"631","Bay State Search LLC","baystatesearch.com","Private","TBD","TBD","TBD",520000,42.35648,-71.05801
+"632","TPA technologies (The Professional Alternative Inc.)","tpatechnologies.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",18730000,42.35845,-71.05756
+"633","Hire Partnership LLC","hirepartnership.com","Private","TBD","TBD","TBD",430000,42.35773,-71.05785
+"634","Cambridge Associates LLC","cambridgeassociates.com","Private","TBD","TBD","TBD",344730000,42.35529,-71.05308
+"635","Breckinridge Capital Advisors","breckinridge.com","Private","TBD","TBD","TBD",6630000,42.35692,-71.05198
+"636","Westfield Capital Management","westfieldcapital.com","Private","TBD","TBD","TBD",20550000,42.35221,-71.05641
+"637","Fiduciary Trust Co.","fiduciary-trust.com","Private","TBD","TBD","TBD",41700000,42.35329,-71.05633
+"638","The Investment Fund for Foundations (TIFF)","tiff.org","Private","TBD","TBD","TBD",960000,42.36003,-71.05317
+"639","Shepherd Kaplan LLC","sk-llc.com","Private","TBD","TBD","TBD",14310000,42.3531,-71.0574
+"640","Boston Private Wealth LLC","bostonprivatewm.com","Private","TBD","TBD","TBD",1170000,42.35611,-71.05683
+"641","Anchor Capital Advisors LLC","anchorcapital.com","Private","TBD","TBD","TBD",9840000,42.364,-71.05322
+"642","Appleton Partners Inc.","appletonpartners.com","Private","TBD","TBD","TBD",16250000,42.364,-71.05322
+"643","Lake Street Advisors","lakestreetadvisors.com","Private","TBD","TBD","TBD",610000,42.355,-71.05682
+"644","Choate Investment Advisors LLC","choateinvestmentadvisors.com","Private","TBD","TBD","TBD",660000,42.35643,-71.05191
+"645","Federal Street Advisors","federalstreet.com","Private","TBD","TBD","TBD",7620000,42.35635,-71.05645
+"646","Boston Advisors LLC","bostonadvisors.com","Private","TBD","TBD","TBD",9480000,42.35772,-71.05484
+"647","Hill Holliday","hhcc.com","Private","TBD","TBD","TBD",6080000,42.3585,-71.05618
+"648","Allen & Gerritsen","a-g.com","Private","TBD","TBD","TBD",37190000,42.34893,-71.04084
+"649","MMB","mmb580.com","Private","TBD","TBD","TBD",340000,42.34013,-71.0653
+"650","Connelly Partners","connellypartners.com","Private","TBD","TBD","TBD",19330000,42.34205,-71.06946
+"651","CTP (Conover Tuttle Pace)","ctpboston.com","Private","TBD","TBD","TBD",260000,42.365,-71.058
+"652","KHJ Brand Activation","khj.com","Private","TBD","TBD","TBD",8460000,42.34961,-71.04272
+"653","Full Contact Advertising","gofullcontact.com","Private","TBD","TBD","TBD",640000,42.3504,-71.05842
+"654","Wallwork Curry McKenna","wcm-partners.com","Private","TBD","TBD","TBD",1e+07,42.37235,-71.06162
+"655","Small Army","smallarmy.net","Private","TBD","TBD","TBD",4520000,42.34328,-71.08517
+"656","FORGE worldwide","forgeworldwide.com","Private","TBD","TBD","TBD",5e+06,42.34871,-71.07228
+"657","Winsper","winsper.com","Private","TBD","TBD","TBD",1e+06,42.35497,-71.0588
+"658","AECOM","aecom.com","Private","TBD","TBD","TBD",17989880000,42.36025,-71.04882
+"659","CDM  Smith","cdmsmith.com","Private","TBD","TBD","TBD",1262130000,42.35866,-71.05507
+"660","HNTB Corp.","hntb.com","Private","TBD","TBD","TBD",907430000,42.35095,-71.07157
+"661","WSP","wspgroup.com","Private","TBD","TBD","TBD",4563520000,42.34388,-71.02417
+"662","STV Inc.","stvinc.com","Private","TBD","TBD","TBD",176090000,42.35221,-71.05641
+"663","Stantec","stantec.com","Private","TBD","TBD","TBD",2165300000,42.36675,-71.05932
+"664","BSC Companies Inc.","bscgroup.com","Private","TBD","TBD","TBD",21200000,42.34005,-71.03581
+"665","Nitsch Engineering","nitscheng.com","Private","TBD","TBD","TBD",12210000,42.35957,-71.06019
+"666","Sanborn, Head & Associates Inc.","sanbornhead.com","Private","TBD","TBD","TBD",23880000,42.3661,-71.05941
+"667","BR+A Consulting Engineers LLC","brplusa.com","Private","TBD","TBD","TBD",27330000,42.3577,-71.14754
+"668","Accenture","accenture.com","Private","TBD","TBD","TBD",32914420000,42.34852,-71.0823
+"669","Avanade Inc.","avanade.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",2650000,42.34852,-71.0823
+"670","Axis Technology LLC","axistechnologyllc.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",7240000,42.35573,-71.0562
+"671","Cervello Inc.","mycervello.com","Private","TBD","TBD","TBD",15880000,42.34893,-71.04084
+"672","Eze Castle Integration Inc.","eci.com","Private","TBD","TBD","TBD",68930000,42.35693,-71.05395
+"673","iCorps Technologies Inc.","icorps.com","Private","TBD","TBD","TBD",12050000,42.38469,-71.07178
+"674","GreenPages Technology Solutions","greenpages.com","Private","TBD","TBD","TBD",1.3e+08,42.37235,-71.06162
+"675","NSK Inc","nskinc.com","Private","TBD","TBD","TBD",7918090000,42.35728,-71.0554
+"676","Bank of America","bankofamerica.com","Private","TBD","TBD","TBD",9.2085e+10,42.35516,-71.05587
+"677","Eastern Bank","easternbank.com","Private","TBD","TBD","TBD",389330000,42.3565,-71.05337
+"678","BNY Mellon","bnymellon.com","Private","TBD","TBD","TBD",1.5431e+10,42.35855,-71.05837
+"679","Citizens Bank of Massachusetts","citizensbank.com","Private","TBD","TBD","TBD",5.279e+09,42.35943,-71.05745
+"680","Grand Circle Corp.","gct.com","Private","Foundations of Wellbeing","Health and Wellness","Care for aging",73200000,42.35025,-71.04885
+"681","The Davis Cos.","https://www.thedaviscompanies.com/","Private","Opportunity","Personal Rights","Private property rights",19060000,42.35529,-71.05308
+"682","Natixis Global Asset Management","ngam.natixis.com","Private","TBD","TBD","TBD",20908340000,42.35181,-71.07218
+"683","People's United Bank","peoples.com","Private","TBD","TBD","TBD",1394800000,42.35672,-71.05478
+"684","The Procter & Gamble Co./Gillette","pg.com","Private","TBD","TBD","TBD",7.6279e+10,42.34491,-71.05453
+"685","AT&T Inc.","att.com","Private","Foundations of Wellbeing","Access to Information and Communications","Mobile telephone subscriptions",1.47e+11,42.35308,-71.05829
+"686","Loomis, Sayles & Co.","loomissayles.com","Private","TBD","TBD","TBD",251550000,42.35221,-71.05641
+"687","The Northern Trust Co.","northerntrust.com","Private","TBD","TBD","TBD",4883300000,42.35582,-71.05223
+"688","Webster Bank","websterbank.com","Private","TBD","TBD","TBD",992730000,42.35561,-71.05769
+"689","Houghton Mifflin Harcourt","hmhco.com","Private","Opportunity","Access to Advanced Education","Inequality in the attainment of education",1416060000,42.35067,-71.07319
+"690","Korn/Ferry","kornferry.com","Private","TBD","TBD","TBD",1413510000,42.3565,-71.05337
+"691","Isaacson, Miller","imsearch.com","Private","TBD","TBD","TBD",29540000,42.35019,-71.05072
+"692","Management Recruiters-The Boston Group","mri-boston.com","Private","TBD","TBD","TBD",8270000,42.35043,-71.07726
+"693","Lois L. Lindauer Searches LLC","lllsearches.com","Private","TBD","TBD","TBD",230000,42.35112,-71.07264
+"694","RM Nephew and Associates LLC","rmnephew.com","Private","TBD","TBD","TBD",1250000,42.3461,-71.08145
+"695","BSG  Team Ventures","bsgtv.com","Private","TBD","TBD","TBD",410000,42.35122,-71.07565
+"696","Work Inc.","workinc.org","Private","TBD","TBD","TBD",50000,42.35135,-71.06179
+"697","Mercer","mercer.com","Private","TBD","TBD","TBD",1033200000,42.35418,-71.0547
+"698","Towers Watson","towerswatson.com","Private","TBD","TBD","TBD",3.809e+09,42.34852,-71.0823
+"699","Aon","aon.com/newengland","Private","TBD","TBD","TBD",1.1652e+10,42.35611,-71.05683
+"700","Arthur J. Gallagher & Co.","ajg.com","Private","TBD","TBD","TBD",5361400000,42.35415,-71.05141
+"701","The Segal Group","segalgroup.net","Private","TBD","TBD","TBD",138740000,42.34656,-71.07977
+"702","CBIZ Tofias  / CBIZ Clearview","cbiztofias.com","Private","TBD","TBD","TBD",750420000,42.35044,-71.07427
+"703","Boston Benefit Partners LLC","bosben.com","Private","TBD","TBD","TBD",990000,42.35839,-71.05251
+"704","Veolia North America","veolianorthamerica.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",483506000,42.3585,-71.05618
+"705","SunEdison","sunedison.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",2484400000,42.35053,-71.0591
+"706","Oasys Water","oasyswater.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","Water withdrawals as a percent of resources",15970000,42.34422,-71.03108
+"707","Nexamp Inc.","www.nexamp.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",5600000,42.35799,-71.05454
+"708","Essess Inc.","essess.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",120000,42.3492,-71.0501
+"709","FastCAP Systems Corp.","fastcapsystems.com","Private","TBD","TBD","TBD",2110000,42.34422,-71.03108
+"710","BlueWave Capital","bluewave-capital.com","Private","Foundations of Wellbeing","Ecosystem Sustainability","Greenhouse gas emissions",4430000,42.3513,-71.07711
+"711","Merck Research Laboratories","merck.com","Private","Foundations of Wellbeing","Health and Wellness","Life expectancy",3.8773e+10,42.33974,-71.1033
+"712","Sterlingwear of Boston Inc.","sterlingwear.com","Private","Basic Human Needs","Shelter","Clothing",65030000,42.38606,-71.01791
+"713","Eagle Elevator Co. Inc.","http://www.eagleelevator.net/","Private","TBD","TBD","TBD",9180000,42.32478,-71.06868
+"714","Wells Fargo Bank","wellsfargo.com","Private","TBD","TBD","TBD",9.074e+10,42.35856,-71.05839
+"715","Radius Bank","radiusbank.com","Private","TBD","TBD","TBD",27810000,42.34551,-71.03551
+"716","Target","target.com","Private","TBD","TBD","TBD",7.3785e+10,42.32931,-71.06305
+"717","The Home Depot","homedepot.com","Private","TBD","TBD","TBD",8.8519e+10,42.32799,-71.06349
+"718","Macy's","macysinc.com","Private","Basic Human Needs","Shelter","Clothing",2.7079e+10,42.34885,-71.15826
+"719","CVS pharmacy","cvs.com","Private","TBD","TBD","TBD",1.53e+11,42.35667,-71.05657
+"720","Walgreens","walgreens.com","Private","TBD","TBD","TBD",1.03e+11,42.35744,-71.05931
+"721","Rite Aid","riteaid.com","Private","TBD","TBD","TBD",30736660000,42.36047,-71.06209
+"722","Whole Foods Market","wholefoodsmarket.com","Private","Basic Human Needs","Nutrition and Basic Medical Care","Undernourishment",1.5389e+10,42.36205,-71.06536
+"723","Planet Fitness","planetfitness.com","Private","Foundations of Wellbeing","Health and Wellness","Obesity rate",330540000,42.38606,-71.01791
+"724","Best Buy","bestbuy.com","Private","Foundations of Wellbeing","Access to Information and Communications","Internet users",3.9528e+10,42.32714,-71.06134
+"725","Patrick J. Kennedy & Sons Inc.","pjkennedy.com","Private","Basic Human Needs","Water and Sanitation","Access to improved sanitation facilities",120000,42.29714,-71.05902
